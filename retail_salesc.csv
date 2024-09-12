@@ -1,0 +1,1001 @@
+Transaction ID,Order Date,Customer ID,Age,Gender,City,Category,Quantity,Price Per Item,Total Price,Payment Method,Sales
+1,8-Nov-17,CG-12520,28,Female,Henderson,Clothing,5,300.08,1500.4,Credit Card,261.96
+2,8-Nov-17,CG-12520,21,Male,Henderson,Shoes,3,600.17,1800.51,Debit Card,731.94
+3,12-Jun-17,DV-13045,20,Male,Los Angeles,Clothing,1,300.08,300.08,Cash,14.62
+4,11-Oct-16,SO-20335,66,Female,Fort Lauderdale,Shoes,5,600.17,3000.85,Credit Card,957.5775
+5,11-Oct-16,SO-20335,53,Female,Fort Lauderdale,Books,4,15.15,60.6,Cash,22.368
+6,9-Jun-15,BH-11710,28,Female,Los Angeles,Clothing,5,300.08,1500.4,Credit Card,48.86
+7,9-Jun-15,BH-11710,49,Female,Los Angeles,Cosmetics,1,40.66,40.66,Cash,7.28
+8,9-Jun-15,BH-11710,32,Female,Los Angeles,Clothing,2,300.08,600.16,Credit Card,907.152
+9,9-Jun-15,BH-11710,69,Male,Los Angeles,Clothing,3,300.08,900.24,Credit Card,18.504
+10,9-Jun-15,BH-11710,60,Female,Los Angeles,Clothing,2,300.08,600.16,Credit Card,114.9
+11,9-Jun-15,BH-11710,36,Female,Los Angeles,Food & Beverage,2,5.23,10.46,Cash,1706.184
+12,9-Jun-15,BH-11710,29,Female,Los Angeles,Books,1,15.15,15.15,Credit Card,911.424
+13,15-Apr-18,AA-10480,67,Female,Concord,Toys,4,35.84,143.36,Debit Card,15.552
+14,5-Dec-17,IM-15070,25,Male,Seattle,Clothing,2,300.08,600.16,Cash,407.976
+15,22-Nov-16,HP-14815,67,Female,Fort Worth,Clothing,2,300.08,600.16,Credit Card,68.81
+16,22-Nov-16,HP-14815,24,Male,Fort Worth,Shoes,5,600.17,3000.85,Credit Card,2.544
+17,11-Nov-15,PK-19075,65,Male,Madison,Books,2,15.15,30.3,Debit Card,665.88
+18,13-May-15,AG-10270,42,Female,West Jordan,Food & Beverage,3,5.23,15.69,Credit Card,55.5
+19,27-Aug-15,ZD-21925,46,Female,San Francisco,Clothing,2,300.08,600.16,Cash,8.56
+20,27-Aug-15,ZD-21925,24,Male,San Francisco,Toys,4,35.84,143.36,Cash,213.48
+21,27-Aug-15,ZD-21925,23,Male,San Francisco,Clothing,1,300.08,300.08,Credit Card,22.72
+22,9-Dec-17,KB-16585,27,Female,Fremont,Food & Beverage,1,5.23,5.23,Cash,19.46
+23,9-Dec-17,KB-16585,52,Male,Fremont,Clothing,2,300.08,600.16,Credit Card,60.34
+24,16-Jul-18,SF-20065,44,Male,Philadelphia,Technology,5,1050,5250,Cash,71.372
+25,25-Sep-16,EB-13870,42,Female,Orem,Books,5,15.15,75.75,Cash,1044.63
+26,16-Jan-17,EH-13945,51,Male,Los Angeles,Toys,2,35.84,71.68,Debit Card,11.648
+27,16-Jan-17,EH-13945,25,Female,Los Angeles,Cosmetics,5,40.66,203.3,Credit Card,90.57
+28,17-Sep-16,TB-21520,50,Male,Philadelphia,Shoes,4,600.17,2400.68,Cash,3083.43
+29,17-Sep-16,TB-21520,65,Female,Philadelphia,Shoes,3,600.17,1800.51,Cash,9.618
+30,17-Sep-16,TB-21520,29,Male,Philadelphia,Cosmetics,3,40.66,121.98,Credit Card,124.2
+31,17-Sep-16,TB-21520,66,Female,Philadelphia,Toys,3,35.84,107.52,Debit Card,3.264
+32,17-Sep-16,TB-21520,23,Male,Philadelphia,Clothing,1,300.08,300.08,Credit Card,86.304
+33,17-Sep-16,TB-21520,32,Female,Philadelphia,Shoes,3,600.17,1800.51,Credit Card,6.858
+34,17-Sep-16,TB-21520,51,Male,Philadelphia,Clothing,4,300.08,1200.32,Debit Card,15.76
+35,19-Oct-18,MA-17560,66,Female,Houston,Shoes,4,600.17,2400.68,Credit Card,29.472
+36,8-Dec-17,GH-14485,68,Male,Richardson,Food & Beverage,1,5.23,5.23,Credit Card,1097.544
+37,8-Dec-17,GH-14485,43,Male,Richardson,Clothing,5,300.08,1500.4,Credit Card,190.92
+38,27-Dec-16,SN-20710,59,Female,Houston,Clothing,2,300.08,600.16,Credit Card,113.328
+39,27-Dec-16,SN-20710,54,Male,Houston,Clothing,2,300.08,600.16,Cash,532.3992
+40,27-Dec-16,SN-20710,24,Male,Houston,Clothing,1,300.08,300.08,Cash,212.058
+41,27-Dec-16,SN-20710,49,Female,Houston,Food & Beverage,3,5.23,15.69,Cash,371.168
+42,10-Sep-18,LC-16930,67,Male,Naperville,Cosmetics,2,40.66,81.32,Credit Card,147.168
+43,17-Jul-17,RA-19885,48,Female,Los Angeles,Cosmetics,3,40.66,121.98,Cash,77.88
+44,19-Sep-18,ES-14080,40,Female,Melbourne,Shoes,4,600.17,2400.68,Cash,95.616
+45,11-Mar-17,ON-18715,41,Female,Eagan,Shoes,3,600.17,1800.51,Credit Card,45.98
+46,11-Mar-17,ON-18715,46,Male,Eagan,Books,5,15.15,75.75,Credit Card,17.46
+47,20-Oct-15,PO-18865,19,Female,Westland,Cosmetics,3,40.66,121.98,Credit Card,211.96
+48,20-Jun-17,LH-16900,43,Female,Dover,Clothing,4,300.08,1200.32,Debit Card,45
+49,20-Jun-17,LH-16900,18,Male,Dover,Cosmetics,3,40.66,121.98,Debit Card,21.8
+50,18-Apr-16,DP-13000,22,Female,New Albany,Books,5,15.15,75.75,Debit Card,38.22
+51,18-Apr-16,DP-13000,61,Female,New Albany,Cosmetics,5,40.66,203.3,Cash,75.18
+52,18-Apr-16,DP-13000,41,Female,New Albany,Books,3,15.15,45.45,Cash,6.16
+53,18-Apr-16,DP-13000,53,Female,New Albany,Cosmetics,2,40.66,81.32,Credit Card,89.99
+54,11-Dec-17,JM-15265,43,Female,New York City,Technology,4,1050,4200,Cash,15.26
+55,11-Dec-17,JM-15265,45,Female,New York City,Food & Beverage,3,5.23,15.69,Debit Card,1029.95
+56,17-Jun-17,TB-21055,29,Female,Troy,Clothing,1,300.08,300.08,Cash,208.56
+57,17-Jun-17,TB-21055,43,Male,Troy,Toys,2,35.84,71.68,Cash,32.4
+58,17-Jun-17,TB-21055,19,Female,Troy,Clothing,4,300.08,1200.32,Credit Card,319.41
+59,17-Jun-17,TB-21055,67,Female,Troy,Food & Beverage,3,5.23,15.69,Cash,14.56
+60,17-Jun-17,TB-21055,36,Female,Troy,Books,4,15.15,60.6,Cash,30
+61,17-Jun-17,TB-21055,64,Male,Troy,Clothing,5,300.08,1500.4,Credit Card,48.48
+62,17-Jun-17,TB-21055,33,Female,Troy,Clothing,1,300.08,300.08,Debit Card,1.68
+63,24-Nov-16,KM-16720,33,Female,Los Angeles,Clothing,4,300.08,1200.32,Credit Card,13.98
+64,24-Nov-16,KM-16720,66,Male,Los Angeles,Clothing,4,300.08,1200.32,Cash,25.824
+65,24-Nov-16,KM-16720,29,Female,Los Angeles,Cosmetics,4,40.66,162.64,Debit Card,146.73
+66,24-Nov-16,KM-16720,22,Male,Los Angeles,Toys,3,35.84,107.52,Cash,79.76
+67,30-Apr-16,PS-18970,63,Female,Chicago,Food & Beverage,3,5.23,15.69,Cash,213.115
+68,5-Dec-15,BS-11590,24,Female,Gilbert,Souvenir,5,11.73,58.65,Debit Card,1113.024
+69,5-Dec-15,BS-11590,24,Female,Gilbert,Cosmetics,5,40.66,203.3,Cash,167.968
+70,4-Jun-17,KD-16270,44,Female,Springfield,Technology,5,1050,5250,Credit Card,75.88
+71,18-Sep-17,HM-14980,34,Male,New York City,Shoes,5,600.17,3000.85,Cash,4.616
+72,14-Sep-18,TB-21520,47,Female,Jackson,Cosmetics,4,40.66,162.64,Cash,19.05
+73,26-Apr-16,JE-15745,38,Male,Memphis,Food & Beverage,5,5.23,26.15,Cash,831.936
+74,26-Apr-16,JE-15745,57,Female,Memphis,Shoes,5,600.17,3000.85,Debit Card,97.04
+75,26-Apr-16,JE-15745,67,Male,Memphis,Toys,3,35.84,107.52,Cash,72.784
+76,9-Dec-18,KB-16600,41,Male,Houston,Souvenir,3,11.73,35.19,Credit Card,1.248
+77,9-Dec-18,KB-16600,40,Female,Houston,Clothing,5,300.08,1500.4,Debit Card,9.708
+78,9-Dec-18,KB-16600,69,Female,Houston,Shoes,4,600.17,2400.68,Cash,27.24
+79,26-Nov-15,JE-15745,47,Female,Houston,Food & Beverage,5,5.23,26.15,Cash,19.3
+80,12-Jun-17,SC-20770,53,Female,Decatur,Food & Beverage,4,5.23,20.92,Credit Card,208.16
+81,12-Jun-17,SC-20770,40,Male,Decatur,Toys,2,35.84,71.68,Cash,16.74
+82,12-Oct-15,DN-13690,60,Male,San Francisco,Cosmetics,4,40.66,162.64,Credit Card,14.9
+83,12-Oct-15,DN-13690,30,Male,San Francisco,Souvenir,2,11.73,23.46,Cash,21.39
+84,3-Sep-16,JC-16105,66,Female,Durham,Clothing,2,300.08,600.16,Credit Card,200.984
+85,13-Nov-18,CS-12400,22,Male,Chicago,Food & Beverage,1,5.23,5.23,Cash,230.376
+86,28-May-18,PO-18865,53,Male,Columbia,Food & Beverage,2,5.23,10.46,Cash,301.96
+87,26-Oct-18,PG-18895,52,Female,Rochester,Clothing,5,300.08,1500.4,Cash,19.99
+88,26-Oct-18,PG-18895,26,Male,Rochester,Shoes,5,600.17,3000.85,Cash,6.16
+89,5-Apr-17,GM-14455,66,Male,Houston,Food & Beverage,1,5.23,5.23,Cash,158.368
+90,17-Sep-17,JS-15685,65,Male,Los Angeles,Clothing,4,300.08,1200.32,Debit Card,20.1
+91,17-Sep-17,JS-15685,43,Female,Los Angeles,Technology,2,1050,2100,Cash,73.584
+92,17-Sep-17,JS-15685,59,Female,Los Angeles,Toys,1,35.84,35.84,Debit Card,6.48
+93,31-Jan-16,KB-16315,30,Female,Minneapolis,Souvenir,5,11.73,58.65,Debit Card,12.96
+94,31-Jan-16,KB-16315,25,Female,Minneapolis,Cosmetics,2,40.66,81.32,Debit Card,53.34
+95,31-Jan-16,KB-16315,29,Female,Minneapolis,Toys,3,35.84,107.52,Debit Card,32.96
+96,6-Nov-18,RB-19705,19,Female,Portland,Clothing,2,300.08,600.16,Debit Card,5.682
+97,9-Nov-18,PN-18775,62,Male,New York City,Clothing,5,300.08,1500.4,Credit Card,96.53
+98,17-Jun-18,KD-16345,39,Male,San Francisco,Food & Beverage,3,5.23,15.69,Cash,51.312
+99,6-Sep-17,ER-13855,33,Female,Saint Paul,Clothing,3,300.08,900.24,Cash,77.88
+100,29-Aug-17,RB-19465,26,Female,Chicago,Food & Beverage,4,5.23,20.92,Debit Card,64.624
+101,29-Aug-17,RB-19465,43,Male,Chicago,Technology,3,1050,3150,Credit Card,95.976
+102,29-Aug-17,RB-19465,40,Female,Chicago,Food & Beverage,3,5.23,15.69,Debit Card,1.788
+103,1-Dec-17,GZ-14470,55,Male,Rochester,Clothing,4,300.08,1200.32,Credit Card,23.92
+104,13-Nov-16,LC-16870,24,Female,Aurora,Clothing,5,300.08,1500.4,Credit Card,238.896
+105,13-Nov-16,LC-16870,24,Male,Aurora,Cosmetics,1,40.66,40.66,Cash,102.36
+106,13-Nov-16,LC-16870,30,Female,Aurora,Food & Beverage,5,5.23,26.15,Credit Card,36.882
+107,23-Nov-18,JM-15250,34,Male,Charlotte,Clothing,5,300.08,1500.4,Credit Card,74.112
+108,23-Nov-18,JM-15250,64,Female,Charlotte,Clothing,5,300.08,1500.4,Cash,27.992
+109,23-Nov-18,JM-15250,57,Female,Charlotte,Clothing,5,300.08,1500.4,Cash,3.304
+110,15-Oct-16,PA-19060,18,Male,Orland Park,Cosmetics,4,40.66,162.64,Credit Card,339.96
+111,25-Dec-18,CV-12805,26,Female,New York City,Clothing,4,300.08,1200.32,Cash,41.96
+112,3-Nov-17,CL-12565,19,Female,Urbandale,Food & Beverage,3,5.23,15.69,Debit Card,75.96
+113,3-Nov-17,CL-12565,22,Female,Urbandale,Books,3,15.15,45.45,Cash,27.24
+114,25-Aug-15,RC-19960,48,Male,Columbus,Clothing,1,300.08,300.08,Cash,40.096
+115,25-Aug-15,RC-19960,56,Female,Columbus,Souvenir,5,11.73,58.65,Cash,4.72
+116,25-Aug-15,RC-19960,35,Male,Columbus,Clothing,2,300.08,600.16,Cash,23.976
+117,25-Aug-15,RC-19960,60,Female,Columbus,Toys,4,35.84,143.36,Debit Card,130.464
+118,2-Mar-16,DK-13090,32,Female,Seattle,Clothing,1,300.08,300.08,Credit Card,787.53
+119,5-Apr-16,GG-14650,27,Male,Bristol,Clothing,4,300.08,1200.32,Credit Card,157.794
+120,12-Jun-17,SC-20725,56,Female,Wilmington,Clothing,2,300.08,600.16,Credit Card,47.04
+121,12-Jun-17,SC-20725,35,Male,Wilmington,Cosmetics,4,40.66,162.64,Debit Card,30.84
+122,12-Jun-17,SC-20725,68,Female,Wilmington,Clothing,1,300.08,300.08,Credit Card,226.56
+123,12-Jun-17,SC-20725,64,Female,Wilmington,Technology,2,1050,2100,Cash,115.02
+124,12-Jun-17,SC-20725,60,Female,Wilmington,Toys,4,35.84,143.36,Cash,68.04
+125,26-Dec-15,AD-10180,64,Male,Houston,Toys,5,35.84,179.2,Debit Card,600.558
+126,20-Sep-15,PF-19165,41,Female,Bloomington,Clothing,3,300.08,900.24,Debit Card,617.7
+127,5-Nov-18,TS-21610,30,Male,Phoenix,Food & Beverage,5,5.23,26.15,Cash,2.388
+128,5-Nov-18,TS-21610,40,Male,Phoenix,Clothing,1,300.08,300.08,Debit Card,243.992
+129,6-Nov-17,LS-16975,29,Female,Los Angeles,Clothing,2,300.08,600.16,Cash,81.424
+130,6-Nov-17,LS-16975,25,Male,Los Angeles,Clothing,3,300.08,900.24,Cash,238.56
+131,2-Feb-18,DW-13585,60,Female,Columbus,Clothing,4,300.08,1200.32,Cash,59.97
+132,2-Feb-18,DW-13585,42,Female,Columbus,Food & Beverage,5,5.23,26.15,Cash,78.304
+133,2-Feb-18,DW-13585,54,Male,Columbus,Food & Beverage,1,5.23,5.23,Cash,21.456
+134,13-Oct-17,LC-16885,50,Female,Roseville,Clothing,5,300.08,1500.4,Cash,20.04
+135,13-Oct-17,LC-16885,54,Male,Roseville,Clothing,1,300.08,300.08,Debit Card,35.44
+136,13-Oct-17,LC-16885,45,Female,Roseville,Books,4,15.15,60.6,Cash,11.52
+137,13-Oct-17,LC-16885,40,Female,Roseville,Cosmetics,1,40.66,40.66,Credit Card,4.02
+138,13-Oct-17,LC-16885,24,Male,Roseville,Books,3,15.15,45.45,Credit Card,76.176
+139,13-Oct-17,LC-16885,40,Male,Roseville,Clothing,4,300.08,1200.32,Cash,65.88
+140,13-Oct-17,LC-16885,32,Female,Roseville,Technology,2,1050,2100,Credit Card,43.12
+141,5-Sep-17,JD-15895,28,Female,Philadelphia,Clothing,3,300.08,900.24,Cash,82.8
+142,18-Sep-18,SH-19975,22,Female,San Francisco,Toys,1,35.84,35.84,Cash,8.82
+143,18-Sep-18,SH-19975,21,Female,San Francisco,Clothing,1,300.08,300.08,Credit Card,10.86
+144,18-Sep-18,SH-19975,31,Female,San Francisco,Clothing,2,300.08,600.16,Credit Card,143.7
+145,22-Dec-18,SG-20080,61,Female,Independence,Food & Beverage,3,5.23,15.69,Credit Card,839.43
+146,7-Sep-16,HA-14920,67,Female,Pasadena,Cosmetics,2,40.66,81.32,Cash,671.93
+147,22-Oct-15,MG-17680,52,Male,Newark,Shoes,5,600.17,3000.85,Cash,93.888
+148,5-Dec-17,JE-16165,44,Male,Franklin,Clothing,4,300.08,1200.32,Credit Card,384.45
+149,5-Dec-17,JE-16165,48,Female,Franklin,Food & Beverage,2,5.23,10.46,Credit Card,149.97
+150,5-Dec-17,JE-16165,53,Female,Franklin,Food & Beverage,3,5.23,15.69,Cash,1951.84
+151,5-Dec-17,JE-16165,27,Male,Franklin,Toys,4,35.84,143.36,Cash,171.55
+152,13-Mar-17,TW-21025,28,Female,Scottsdale,Cosmetics,4,40.66,162.64,Cash,157.92
+153,13-Mar-17,TW-21025,43,Female,Scottsdale,Toys,4,35.84,143.36,Credit Card,203.184
+154,31-May-16,SP-20650,54,Male,San Jose,Souvenir,5,11.73,58.65,Credit Card,58.38
+155,31-May-16,SP-20650,41,Male,San Jose,Food & Beverage,5,5.23,26.15,Credit Card,105.52
+156,31-May-16,SP-20650,59,Female,San Jose,Cosmetics,5,40.66,203.3,Cash,80.88
+157,28-May-16,NK-18490,32,Female,Seattle,Clothing,1,300.08,300.08,Credit Card,6.63
+158,1-Mar-15,DB-13060,41,Female,Seattle,Souvenir,5,11.73,58.65,Credit Card,457.568
+159,20-Nov-17,NP-18670,30,Female,Edmond,Technology,3,1050,3150,Debit Card,14.62
+160,20-Nov-17,NP-18670,22,Male,Edmond,Clothing,1,300.08,300.08,Debit Card,944.93
+161,11-May-17,TT-21070,51,Female,Los Angeles,Clothing,4,300.08,1200.32,Cash,5.98
+162,28-Dec-16,EM-13960,23,Female,Philadelphia,Food & Beverage,2,5.23,10.46,Credit Card,54.384
+163,16-Nov-17,RD-19900,40,Male,Carlsbad,Toys,2,35.84,71.68,Cash,28.4
+164,7-Nov-17,MJ-17740,37,Male,Seattle,Clothing,5,300.08,1500.4,Cash,27.68
+165,8-Sep-15,BM-11140,24,Female,San Antonio,Clothing,1,300.08,300.08,Cash,9.936
+166,8-Sep-15,BM-11140,22,Male,San Antonio,Food & Beverage,1,5.23,5.23,Credit Card,8159.952
+167,8-Sep-15,BM-11140,61,Female,San Antonio,Cosmetics,4,40.66,162.64,Cash,275.928
+168,8-Sep-15,BM-11140,25,Female,San Antonio,Food & Beverage,2,5.23,10.46,Credit Card,1740.06
+169,8-Sep-15,BM-11140,66,Female,San Antonio,Souvenir,5,11.73,58.65,Credit Card,32.064
+170,8-Sep-15,BM-11140,59,Female,San Antonio,Shoes,1,600.17,600.17,Cash,177.98
+171,8-Sep-15,BM-11140,38,Male,San Antonio,Clothing,4,300.08,1200.32,Cash,143.976
+172,5-Aug-15,CS-12130,34,Male,Los Angeles,Toys,2,35.84,71.68,Debit Card,20.94
+173,5-Aug-15,CS-12130,26,Female,Los Angeles,Clothing,1,300.08,300.08,Cash,110.96
+174,5-Aug-15,CS-12130,59,Female,Los Angeles,Souvenir,5,11.73,58.65,Cash,340.144
+175,14-Sep-15,JB-15400,53,Female,Chicago,Toys,1,35.84,35.84,Debit Card,52.448
+176,14-Sep-15,JB-15400,23,Male,Chicago,Cosmetics,4,40.66,162.64,Debit Card,20.16
+177,21-Apr-18,SJ-20500,23,Female,Houston,Clothing,5,300.08,1500.4,Credit Card,97.264
+178,21-Nov-16,JE-15745,66,Female,Newark,Technology,3,1050,3150,Debit Card,396.802
+179,21-Nov-16,JE-15745,56,Female,Newark,Cosmetics,4,40.66,162.64,Cash,15.88
+180,15-Dec-16,JK-15640,38,Female,New York City,Souvenir,2,11.73,23.46,Credit Card,3.28
+181,5-Dec-15,DK-13150,28,Male,Decatur,Clothing,3,300.08,900.24,Cash,24.816
+182,5-Dec-15,DK-13150,44,Female,Decatur,Food & Beverage,1,5.23,5.23,Cash,408.744
+183,19-Nov-15,RM-19675,26,Female,Monroe,Food & Beverage,4,5.23,20.92,Cash,503.96
+184,19-Nov-15,RM-19675,41,Female,Monroe,Cosmetics,4,40.66,162.64,Credit Card,149.95
+185,19-Nov-15,RM-19675,50,Male,Monroe,Clothing,4,300.08,1200.32,Cash,29
+186,28-Nov-17,SK-19990,23,Female,Fairfield,Cosmetics,3,40.66,121.98,Cash,7.16
+187,26-Aug-15,FM-14290,31,Female,Los Angeles,Cosmetics,4,40.66,162.64,Cash,176.8
+188,16-Jul-17,AM-10360,26,Male,Grand Prairie,Cosmetics,5,40.66,203.3,Credit Card,37.224
+189,16-Jul-17,AM-10360,56,Female,Grand Prairie,Food & Beverage,3,5.23,15.69,Cash,20.016
+190,12-Oct-16,MP-17470,34,Female,New York City,Toys,4,35.84,143.36,Cash,899.136
+191,12-Oct-16,MP-17470,29,Female,New York City,Clothing,2,300.08,600.16,Cash,71.76
+192,12-Oct-16,MP-17470,20,Female,New York City,Clothing,1,300.08,300.08,Credit Card,51.84
+193,12-Oct-16,MP-17470,54,Female,New York City,Cosmetics,3,40.66,121.98,Credit Card,626.352
+194,12-Oct-16,MP-17470,40,Male,New York City,Clothing,4,300.08,1200.32,Debit Card,19.9
+195,31-Oct-16,MZ-17515,40,Male,Redlands,Cosmetics,5,40.66,203.3,Cash,14.28
+196,21-Mar-15,CB-12025,21,Male,Hamilton,Books,4,15.15,60.6,Cash,7.408
+197,21-Mar-15,CB-12025,32,Female,Hamilton,Technology,2,1050,2100,Cash,6.048
+198,6-Nov-18,VM-21685,47,Male,Westfield,Clothing,3,300.08,900.24,Credit Card,46.26
+199,6-Jul-18,FH-14365,41,Female,Philadelphia,Souvenir,3,11.73,35.19,Cash,2.946
+200,6-Jul-18,FH-14365,33,Male,Philadelphia,Cosmetics,5,40.66,203.3,Cash,16.056
+201,24-Jun-18,MB-17305,67,Female,Akron,Souvenir,2,11.73,23.46,Credit Card,21.744
+202,3-Aug-15,BS-11755,37,Male,Denver,Cosmetics,3,40.66,121.98,Cash,218.75
+203,3-Aug-15,BS-11755,38,Female,Denver,Toys,1,35.84,35.84,Cash,2.6
+204,17-Dec-18,LC-17140,28,Male,Dallas,Shoes,5,600.17,3000.85,Credit Card,66.284
+205,3-Jun-18,HK-14890,38,Female,Franklin,Books,1,15.15,15.15,Credit Card,35.168
+206,9-Dec-18,LE-16810,56,Female,Whittier,Cosmetics,1,40.66,40.66,Credit Card,444.768
+207,1-Dec-18,JH-15985,25,Male,Saginaw,Books,3,15.15,45.45,Debit Card,83.92
+208,1-Dec-18,JH-15985,66,Male,Saginaw,Books,5,15.15,75.75,Cash,131.98
+209,1-Dec-18,JH-15985,37,Female,Saginaw,Souvenir,2,11.73,23.46,Credit Card,15.92
+210,1-Dec-18,JH-15985,19,Female,Saginaw,Food & Beverage,2,5.23,10.46,Cash,52.29
+211,1-Dec-18,JH-15985,53,Female,Saginaw,Clothing,5,300.08,1500.4,Cash,91.99
+212,9-Feb-16,MS-17980,69,Female,Dallas,Shoes,1,600.17,600.17,Cash,20.8
+213,2-Jan-16,VW-21775,69,Male,Medina,Clothing,5,300.08,1500.4,Cash,23.68
+214,2-Jan-16,VW-21775,31,Female,Medina,Food & Beverage,2,5.23,10.46,Debit Card,452.45
+215,2-Jan-16,VW-21775,39,Male,Medina,Books,5,15.15,75.75,Cash,62.982
+216,2-Jan-16,VW-21775,53,Male,Medina,Shoes,5,600.17,3000.85,Cash,1188
+217,2-Jan-16,VW-21775,26,Male,Medina,Cosmetics,2,40.66,81.32,Cash,89.584
+218,28-Oct-17,JH-15910,63,Male,Los Angeles,Food & Beverage,3,5.23,15.69,Cash,93.06
+219,28-Oct-17,JH-15910,34,Female,Los Angeles,Clothing,5,300.08,1500.4,Cash,302.376
+220,24-Dec-16,JB-15925,25,Male,Dublin,Food & Beverage,1,5.23,5.23,Debit Card,5.584
+221,24-Dec-16,JB-15925,20,Female,Dublin,Shoes,3,600.17,1800.51,Cash,22.704
+222,24-Dec-16,JB-15925,18,Female,Dublin,Clothing,4,300.08,1200.32,Debit Card,19.776
+223,24-Dec-16,JB-15925,53,Male,Dublin,Cosmetics,4,40.66,162.64,Credit Card,72.704
+224,24-Dec-16,JB-15925,46,Male,Dublin,Cosmetics,4,40.66,162.64,Cash,479.988
+225,24-Dec-16,JB-15925,34,Female,Dublin,Clothing,1,300.08,300.08,Credit Card,27.168
+226,9-Aug-16,DS-13180,61,Female,Detroit,Clothing,3,300.08,900.24,Cash,2.2
+227,9-Aug-16,DS-13180,38,Female,Detroit,Clothing,5,300.08,1500.4,Credit Card,622.45
+228,9-Aug-16,DS-13180,67,Female,Detroit,Food & Beverage,3,5.23,15.69,Cash,21.98
+229,28-Feb-16,VD-21670,33,Male,Columbia,Toys,4,35.84,143.36,Credit Card,161.568
+230,28-Feb-16,VD-21670,63,Female,Columbia,Clothing,4,300.08,1200.32,Debit Card,389.696
+231,13-Sep-15,EA-14035,21,Female,Charlotte,Clothing,5,300.08,1500.4,Debit Card,18.648
+232,7-Apr-18,CS-12400,41,Female,Tampa,Cosmetics,4,40.66,162.64,Debit Card,233.86
+233,7-Apr-18,CS-12400,48,Female,Tampa,Food & Beverage,1,5.23,5.23,Credit Card,620.6145
+234,7-Apr-18,CS-12400,27,Male,Tampa,Technology,1,1050,1050,Debit Card,5.328
+235,7-Apr-18,CS-12400,22,Female,Tampa,Toys,5,35.84,179.2,Credit Card,258.072
+236,7-Apr-18,CS-12400,54,Female,Tampa,Clothing,4,300.08,1200.32,Credit Card,617.976
+237,12-Nov-18,DB-13120,51,Female,Santa Clara,Toys,1,35.84,35.84,Cash,10.56
+238,4-Jun-17,KL-16645,29,Female,Chicago,Clothing,1,300.08,300.08,Debit Card,25.92
+239,4-Jun-17,KL-16645,44,Female,Chicago,Shoes,2,600.17,1200.34,Credit Card,419.68
+240,4-Jun-17,KL-16645,20,Female,Chicago,Shoes,3,600.17,1800.51,Credit Card,11.688
+241,4-Jun-17,KL-16645,59,Female,Chicago,Shoes,2,600.17,1200.34,Cash,31.984
+242,4-Jun-17,KL-16645,23,Female,Chicago,Clothing,4,300.08,1200.32,Credit Card,177.225
+243,4-Jun-17,KL-16645,25,Female,Chicago,Clothing,1,300.08,300.08,Credit Card,4.044
+244,4-Jun-17,KL-16645,63,Male,Chicago,Shoes,1,600.17,600.17,Cash,7.408
+245,1-Jun-15,DW-13480,21,Male,Lakeville,Clothing,5,300.08,1500.4,Debit Card,2001.86
+246,1-Jun-15,DW-13480,56,Female,Lakeville,Clothing,3,300.08,900.24,Credit Card,166.72
+247,1-Jun-15,DW-13480,39,Male,Lakeville,Cosmetics,2,40.66,81.32,Credit Card,47.88
+248,1-Jun-15,DW-13480,50,Male,Lakeville,Food & Beverage,2,5.23,10.46,Credit Card,1503.25
+249,1-Jun-15,DW-13480,54,Female,Lakeville,Shoes,4,600.17,2400.68,Debit Card,25.92
+250,10-Dec-17,LH-17155,27,Male,San Francisco,Technology,3,1050,3150,Credit Card,321.568
+251,11-Sep-17,KC-16540,56,Male,San Diego,Clothing,5,300.08,1500.4,Credit Card,7.61
+252,11-Sep-17,KC-16540,53,Female,San Diego,Clothing,4,300.08,1200.32,Cash,3347.37
+253,10-Dec-17,DL-13315,62,Female,New York City,Cosmetics,3,40.66,121.98,Credit Card,80.58
+254,10-Dec-17,DL-13315,42,Female,New York City,Clothing,4,300.08,1200.32,Credit Card,361.92
+255,28-Nov-16,DR-12880,68,Female,Chicago,Toys,2,35.84,71.68,Credit Card,12.132
+256,28-Nov-16,DR-12880,27,Male,Chicago,Clothing,4,300.08,1200.32,Cash,82.368
+257,28-Nov-16,DR-12880,39,Male,Chicago,Cosmetics,4,40.66,162.64,Cash,53.92
+258,28-Nov-16,DR-12880,44,Male,Chicago,Toys,3,35.84,107.52,Debit Card,647.904
+259,1-Dec-18,CC-12670,52,Female,New York City,Clothing,3,300.08,900.24,Debit Card,20.37
+260,1-Dec-18,CC-12670,19,Female,New York City,Cosmetics,2,40.66,81.32,Cash,221.55
+261,1-Dec-18,CC-12670,68,Female,New York City,Cosmetics,3,40.66,121.98,Credit Card,17.52
+262,8-Jun-18,Dl-13600,22,Male,Pasadena,Books,5,15.15,75.75,Cash,1.624
+263,19-Sep-15,SB-20290,61,Male,Houston,Shoes,1,600.17,600.17,Cash,3059.982
+264,19-Sep-15,SB-20290,23,Male,Houston,Food & Beverage,3,5.23,15.69,Credit Card,2519.958
+265,6-Jun-17,RC-19825,34,Male,Chicago,Cosmetics,5,40.66,203.3,Debit Card,328.224
+266,10-Nov-16,AH-10210,33,Female,Brentwood,Souvenir,2,11.73,23.46,Debit Card,79.9
+267,16-Jun-18,CB-12535,60,Female,Chapel Hill,Shoes,1,600.17,600.17,Credit Card,14.016
+268,22-Jan-17,PG-18895,24,Female,Morristown,Food & Beverage,1,5.23,5.23,Debit Card,7.56
+269,9-Dec-18,CA-12310,53,Male,Cincinnati,Cosmetics,5,40.66,203.3,Debit Card,37.208
+270,9-Dec-18,CA-12310,22,Male,Cincinnati,Clothing,3,300.08,900.24,Credit Card,57.576
+271,28-Dec-18,KH-16690,50,Male,San Francisco,Souvenir,4,11.73,46.92,Cash,725.84
+272,30-Jul-16,HA-14920,49,Male,San Francisco,Clothing,2,300.08,600.16,Credit Card,209.93
+273,30-Jul-16,HA-14920,31,Male,San Francisco,Clothing,1,300.08,300.08,Debit Card,5.28
+274,30-Jul-16,HA-14920,29,Male,San Francisco,Food & Beverage,5,5.23,26.15,Cash,10.92
+275,16-Sep-18,BB-10990,52,Female,Inglewood,Food & Beverage,1,5.23,5.23,Credit Card,8.82
+276,16-Sep-18,BB-10990,67,Female,Inglewood,Cosmetics,2,40.66,81.32,Cash,5.98
+277,13-Oct-18,AG-10495,50,Female,Philadelphia,Food & Beverage,2,5.23,10.46,Cash,11.648
+278,13-Oct-18,AG-10495,58,Female,Philadelphia,Toys,5,35.84,179.2,Cash,18.176
+279,13-Oct-18,AG-10495,50,Female,Philadelphia,Clothing,4,300.08,1200.32,Debit Card,59.712
+280,13-Oct-18,AG-10495,68,Female,Philadelphia,Technology,2,1050,2100,Credit Card,24.84
+281,26-Sep-16,SC-20725,59,Female,Houston,Souvenir,2,11.73,23.46,Credit Card,2.08
+282,26-Sep-16,SC-20725,66,Female,Houston,Clothing,5,300.08,1500.4,Cash,1114.4
+283,2-Nov-16,JO-15280,69,Male,Los Angeles,Souvenir,4,11.73,46.92,Cash,1038.84
+284,26-Sep-16,TB-21520,27,Male,Portland,Food & Beverage,5,5.23,26.15,Cash,141.76
+285,26-Sep-16,TB-21520,52,Female,Portland,Toys,1,35.84,35.84,Credit Card,239.8
+286,26-Sep-16,TB-21520,27,Female,Portland,Clothing,2,300.08,600.16,Cash,31.104
+287,18-Dec-17,AH-10195,43,Female,Tamarac,Technology,2,1050,2100,Credit Card,254.058
+288,18-Dec-17,AH-10195,36,Male,Tamarac,Clothing,1,300.08,300.08,Cash,194.528
+289,18-Dec-17,AH-10195,19,Female,Tamarac,Souvenir,1,11.73,11.73,Cash,961.48
+290,20-Nov-17,NZ-18565,21,Male,Columbus,Books,5,15.15,75.75,Cash,19.096
+291,20-Nov-17,NZ-18565,20,Male,Columbus,Clothing,1,300.08,300.08,Cash,18.496
+292,20-Nov-17,NZ-18565,23,Female,Columbus,Toys,2,35.84,71.68,Debit Card,255.984
+293,20-Nov-17,NZ-18565,52,Female,Columbus,Cosmetics,2,40.66,81.32,Cash,86.97
+294,26-Dec-15,KL-16555,24,Male,Colorado Springs,Clothing,4,300.08,1200.32,Credit Card,300.416
+295,26-Dec-15,KL-16555,20,Female,Colorado Springs,Food & Beverage,5,5.23,26.15,Credit Card,230.352
+296,26-Dec-15,KL-16555,58,Male,Colorado Springs,Toys,3,35.84,107.52,Credit Card,218.352
+297,26-Dec-15,KL-16555,21,Male,Colorado Springs,Clothing,4,300.08,1200.32,Debit Card,78.6
+298,26-Dec-15,KL-16555,35,Male,Colorado Springs,Shoes,2,600.17,1200.34,Cash,27.552
+299,28-Oct-17,JD-15895,29,Female,Belleville,Cosmetics,3,40.66,121.98,Cash,32.4
+300,28-Oct-17,JD-15895,68,Male,Belleville,Cosmetics,2,40.66,81.32,Credit Card,1082.48
+301,28-Oct-17,JD-15895,50,Female,Belleville,Cosmetics,3,40.66,121.98,Debit Card,56.91
+302,28-Oct-17,JD-15895,44,Female,Belleville,Toys,3,35.84,107.52,Cash,77.6
+303,28-Oct-17,JD-15895,47,Female,Belleville,Clothing,1,300.08,300.08,Cash,14.28
+304,19-Nov-18,JH-15910,48,Female,Chicago,Souvenir,4,11.73,46.92,Cash,219.075
+305,4-May-16,AS-10225,39,Female,New York City,Toys,1,35.84,35.84,Credit Card,26.8
+306,30-Dec-15,KB-16600,27,Male,Taylor,Clothing,1,300.08,300.08,Cash,9.84
+307,1-Jun-15,CR-12625,34,Female,Lakewood,Shoes,4,600.17,2400.68,Cash,45.48
+308,1-Jun-15,CR-12625,65,Female,Lakewood,Food & Beverage,1,5.23,5.23,Cash,289.2
+309,15-Apr-18,SH-20395,53,Female,Arlington,Cosmetics,2,40.66,81.32,Cash,4.89
+310,12-Sep-17,BP-11185,19,Female,Arvada,Food & Beverage,3,5.23,15.69,Credit Card,15.136
+311,12-Sep-17,BP-11185,19,Female,Arvada,Clothing,2,300.08,600.16,Cash,466.768
+312,12-Sep-17,BP-11185,31,Female,Arvada,Food & Beverage,1,5.23,5.23,Credit Card,15.232
+313,12-Sep-17,BP-11185,43,Female,Arvada,Toys,2,35.84,71.68,Cash,6.264
+314,27-Sep-15,TS-21205,42,Male,Hackensack,Clothing,3,300.08,900.24,Credit Card,87.54
+315,9-Aug-15,AG-10525,58,Male,Saint Petersburg,Books,4,15.15,60.6,Credit Card,178.384
+316,9-Aug-15,AG-10525,34,Female,Saint Petersburg,Cosmetics,3,40.66,121.98,Debit Card,15.552
+317,28-Dec-15,SP-20860,32,Female,Philadelphia,Cosmetics,2,40.66,81.32,Debit Card,99.136
+318,4-Nov-15,NM-18445,27,Male,New York City,Souvenir,4,11.73,46.92,Credit Card,135.882
+319,4-Nov-15,NM-18445,28,Female,New York City,Food & Beverage,2,5.23,10.46,Credit Card,3991.98
+320,4-Nov-15,NM-18445,55,Male,New York City,Cosmetics,3,40.66,121.98,Credit Card,275.94
+321,4-Nov-15,NM-18445,48,Female,New York City,Souvenir,3,11.73,35.19,Cash,360
+322,4-Nov-15,NM-18445,46,Female,New York City,Food & Beverage,4,5.23,20.92,Credit Card,43.57
+323,19-Sep-15,FA-14230,20,Female,Long Beach,Toys,3,35.84,107.52,Cash,7.16
+324,23-Apr-17,GK-14620,39,Male,Hesperia,Toys,3,35.84,107.52,Credit Card,251.52
+325,23-Apr-17,GK-14620,44,Male,Hesperia,Clothing,5,300.08,1500.4,Credit Card,99.99
+326,3-Nov-18,DJ-13510,35,Female,Murfreesboro,Cosmetics,5,40.66,203.3,Debit Card,15.992
+327,30-Aug-17,PO-18850,48,Male,Philadelphia,Cosmetics,5,40.66,203.3,Credit Card,290.898
+328,30-Aug-17,PO-18850,22,Female,Philadelphia,Clothing,1,300.08,300.08,Credit Card,54.224
+329,30-Aug-17,PO-18850,52,Female,Philadelphia,Technology,3,1050,3150,Debit Card,786.744
+330,30-Aug-17,PO-18850,45,Male,Philadelphia,Clothing,5,300.08,1500.4,Debit Card,100.24
+331,30-Aug-17,PO-18850,64,Male,Philadelphia,Clothing,4,300.08,1200.32,Credit Card,37.764
+332,25-Apr-17,JL-15850,38,Male,Philadelphia,Souvenir,5,11.73,58.65,Credit Card,82.8
+333,25-Apr-17,JL-15850,45,Female,Philadelphia,Shoes,2,600.17,1200.34,Cash,20.724
+334,25-Apr-17,JL-15850,41,Female,Philadelphia,Souvenir,5,11.73,58.65,Cash,4.896
+335,1-Sep-16,DB-13615,57,Female,Los Angeles,Cosmetics,1,40.66,40.66,Cash,4.752
+336,1-Sep-16,DB-13615,57,Male,Los Angeles,Food & Beverage,4,5.23,20.92,Debit Card,959.984
+337,1-Sep-16,DB-13615,60,Female,Los Angeles,Books,1,15.15,15.15,Credit Card,14.368
+338,12-Jul-15,AC-10420,44,Female,San Francisco,Food & Beverage,2,5.23,10.46,Debit Card,7.712
+339,12-Jul-15,AC-10420,38,Male,San Francisco,Cosmetics,5,40.66,203.3,Cash,698.352
+340,22-Jun-16,KL-16645,65,Male,Layton,Food & Beverage,3,5.23,15.69,Credit Card,4.96
+341,13-Apr-15,JD-15895,30,Male,Philadelphia,Clothing,1,300.08,300.08,Debit Card,17.856
+342,13-Apr-15,JD-15895,50,Female,Philadelphia,Clothing,2,300.08,600.16,Debit Card,509.97
+343,13-Apr-15,JD-15895,19,Female,Philadelphia,Food & Beverage,3,5.23,15.69,Credit Card,30.992
+344,13-Apr-15,JD-15895,26,Male,Philadelphia,Shoes,1,600.17,600.17,Debit Card,71.928
+345,20-Dec-16,CS-12130,54,Female,Austin,Cosmetics,4,40.66,162.64,Credit Card,88.8
+346,15-Jun-18,CC-12550,63,Female,San Francisco,Cosmetics,3,40.66,121.98,Credit Card,47.976
+347,8-Jul-18,TD-20995,66,Female,Lowell,Clothing,2,300.08,600.16,Debit Card,7.56
+348,8-Jul-18,TD-20995,48,Female,Lowell,Cosmetics,2,40.66,81.32,Debit Card,24.56
+349,8-Jul-18,TD-20995,46,Male,Lowell,Clothing,2,300.08,600.16,Debit Card,12.96
+350,1-Sep-17,AB-10060,54,Male,New York City,Shoes,4,600.17,2400.68,Cash,6.79
+351,1-Sep-17,AB-10060,62,Male,New York City,Books,5,15.15,75.75,Cash,24.56
+352,1-Sep-17,AB-10060,64,Female,New York City,Toys,3,35.84,107.52,Credit Card,3.048
+353,1-Sep-17,AB-10060,55,Male,New York City,Food & Beverage,3,5.23,15.69,Cash,49.12
+354,1-Sep-17,AB-10060,20,Female,New York City,Clothing,1,300.08,300.08,Credit Card,4355.168
+355,8-Apr-17,JL-15505,41,Male,New York City,Toys,5,35.84,179.2,Credit Card,388.704
+356,8-Apr-17,JL-15505,54,Male,New York City,Food & Beverage,5,5.23,26.15,Credit Card,8.26
+357,8-Apr-17,JL-15505,34,Male,New York City,Clothing,1,300.08,300.08,Cash,17.04
+358,8-Apr-17,JL-15505,31,Female,New York City,Clothing,1,300.08,300.08,Cash,34.4
+359,23-Apr-17,HK-14890,48,Male,Charlotte,Toys,4,35.84,143.36,Cash,36.24
+360,8-Mar-18,VB-21745,44,Female,Columbus,Clothing,2,300.08,600.16,Debit Card,647.84
+361,8-Mar-18,VB-21745,42,Female,Columbus,Shoes,1,600.17,600.17,Credit Card,20.7
+362,25-Sep-18,KW-16435,25,Male,New York City,Shoes,1,600.17,600.17,Credit Card,20.7
+363,25-Sep-18,KW-16435,64,Male,New York City,Clothing,5,300.08,1500.4,Cash,488.646
+364,25-Sep-18,KW-16435,67,Female,New York City,Technology,5,1050,5250,Cash,5.56
+365,25-Sep-18,KW-16435,55,Female,New York City,Clothing,2,300.08,600.16,Cash,47.12
+366,24-Sep-15,JD-16060,62,Female,San Francisco,Shoes,3,600.17,1800.51,Credit Card,211.96
+367,21-Oct-17,MK-17905,54,Female,Manchester,Clothing,2,300.08,600.16,Credit Card,23.2
+368,21-Oct-17,MK-17905,43,Female,Manchester,Food & Beverage,4,5.23,20.92,Credit Card,7.36
+369,21-Oct-17,MK-17905,30,Female,Manchester,Clothing,2,300.08,600.16,Cash,104.79
+370,21-Oct-17,MK-17905,58,Female,Manchester,Cosmetics,5,40.66,203.3,Debit Card,1043.92
+371,29-May-18,GT-14755,49,Male,Harlingen,Shoes,5,600.17,3000.85,Credit Card,25.92
+372,29-May-18,GT-14755,49,Female,Harlingen,Clothing,3,300.08,900.24,Cash,53.424
+373,23-Jul-15,AG-10900,19,Female,Tucson,Clothing,5,300.08,1500.4,Debit Card,8.16
+374,23-Jul-15,AG-10900,58,Female,Tucson,Food & Beverage,1,5.23,5.23,Debit Card,1023.936
+375,23-Jul-15,AG-10900,49,Female,Tucson,Food & Beverage,2,5.23,10.46,Credit Card,9.24
+376,23-Jul-15,AG-10900,50,Female,Tucson,Technology,1,1050,1050,Cash,479.04
+377,28-Sep-17,MM-18280,21,Female,Quincy,Cosmetics,4,40.66,162.64,Cash,99.136
+378,27-Aug-18,AR-10405,21,Male,Franklin,Shoes,2,600.17,1200.34,Cash,1488.424
+379,28-Apr-16,RA-19915,63,Male,Houston,Cosmetics,5,40.66,203.3,Credit Card,8.652
+380,28-Apr-16,RA-19915,30,Male,Houston,Souvenir,2,11.73,23.46,Credit Card,23.832
+381,28-Apr-16,RA-19915,66,Male,Houston,Shoes,5,600.17,3000.85,Credit Card,12.176
+382,28-Oct-17,AS-10285,23,Female,San Francisco,Food & Beverage,4,5.23,20.92,Cash,50.96
+383,28-Oct-17,AS-10285,69,Female,San Francisco,Clothing,1,300.08,300.08,Cash,49.536
+384,26-Jun-16,LA-16780,45,Female,Taylor,Shoes,4,600.17,2400.68,Credit Card,41.9
+385,27-Nov-16,DO-13435,53,Male,Pembroke Pines,Clothing,5,300.08,1500.4,Credit Card,375.4575
+386,27-Nov-16,DO-13435,50,Female,Pembroke Pines,Books,1,15.15,15.15,Cash,83.976
+387,3-Dec-16,DK-13225,45,Female,Philadelphia,Clothing,3,300.08,900.24,Debit Card,482.34
+388,3-Dec-16,DK-13225,47,Female,Philadelphia,Food & Beverage,3,5.23,15.69,Debit Card,2.96
+389,24-Nov-15,NG-18430,36,Female,Cincinnati,Clothing,1,300.08,300.08,Debit Card,2.624
+390,11-Dec-18,MV-18190,61,Female,New York City,Food & Beverage,3,5.23,15.69,Cash,23.36
+391,11-Dec-18,MV-18190,46,Female,New York City,Toys,4,35.84,143.36,Credit Card,39.98
+392,21-Sep-15,JG-15115,47,Male,Des Moines,Technology,5,1050,5250,Debit Card,246.384
+393,21-Sep-15,JG-15115,38,Female,Des Moines,Clothing,5,300.08,1500.4,Cash,1799.97
+394,7-Jun-15,BP-11095,41,Female,Peoria,Clothing,1,300.08,300.08,Credit Card,12.462
+395,30-Jun-18,VP-21730,29,Male,Las Vegas,Clothing,4,300.08,1200.32,Cash,75.792
+396,17-Oct-18,SS-20140,58,Female,Warwick,Cosmetics,3,40.66,121.98,Credit Card,49.96
+397,17-Oct-18,SS-20140,69,Male,Warwick,Technology,3,1050,3150,Debit Card,12.96
+398,31-Oct-16,HP-14815,53,Female,Jackson,Cosmetics,4,40.66,162.64,Cash,70.12
+399,8-Sep-17,AG-10675,26,Male,Houston,Food & Beverage,1,5.23,5.23,Cash,35.952
+400,8-Sep-17,AG-10675,53,Male,Houston,Food & Beverage,1,5.23,5.23,Cash,2396.2656
+401,8-Sep-17,AG-10675,63,Female,Houston,Clothing,4,300.08,1200.32,Credit Card,131.136
+402,8-Sep-17,AG-10675,54,Female,Houston,Clothing,1,300.08,300.08,Credit Card,57.584
+403,24-Dec-15,LF-17185,54,Female,Miami,Clothing,5,300.08,1500.4,Debit Card,9.568
+404,16-Apr-15,SP-20650,45,Male,Wilmington,Souvenir,2,11.73,23.46,Credit Card,39.072
+405,24-Dec-18,RF-19840,62,Female,New York City,Toys,4,35.84,143.36,Credit Card,35.91
+406,8-Dec-18,KH-16510,18,Female,San Francisco,Clothing,1,300.08,300.08,Credit Card,179.95
+407,8-Dec-18,KH-16510,44,Female,San Francisco,Shoes,5,600.17,3000.85,Credit Card,1199.976
+408,8-Dec-18,KH-16510,50,Male,San Francisco,Clothing,1,300.08,300.08,Cash,27.15
+409,8-Dec-18,KH-16510,31,Male,San Francisco,Clothing,5,300.08,1500.4,Credit Card,1004.024
+410,8-Dec-18,KH-16510,62,Male,San Francisco,Clothing,5,300.08,1500.4,Cash,9.68
+411,8-Dec-18,KH-16510,20,Female,San Francisco,Clothing,5,300.08,1500.4,Debit Card,28.35
+412,8-Dec-18,KH-16510,65,Female,San Francisco,Books,5,15.15,75.75,Cash,55.98
+413,8-Dec-18,KH-16510,63,Female,San Francisco,Souvenir,1,11.73,11.73,Cash,1336.829
+414,8-Dec-18,KH-16510,57,Female,San Francisco,Food & Beverage,4,5.23,20.92,Cash,113.568
+415,3-Nov-18,KC-16675,59,Female,Seattle,Clothing,1,300.08,300.08,Debit Card,139.86
+416,3-Nov-18,KC-16675,44,Female,Seattle,Clothing,4,300.08,1200.32,Debit Card,307.136
+417,24-Jun-18,CJ-12010,63,Female,Huntington Beach,Cosmetics,5,40.66,203.3,Credit Card,95.92
+418,14-Apr-17,PB-19150,65,Male,Los Angeles,Clothing,4,300.08,1200.32,Cash,383.8
+419,6-Nov-18,VB-21745,68,Female,Richmond,Clothing,1,300.08,300.08,Cash,5.78
+420,4-Mar-18,SP-20860,21,Female,Los Angeles,Food & Beverage,2,5.23,10.46,Debit Card,9.32
+421,4-Mar-18,SP-20860,33,Female,Los Angeles,Books,5,15.15,75.75,Credit Card,15.25
+422,22-Jun-15,JE-15745,23,Female,Louisville,Souvenir,2,11.73,23.46,Cash,196.752
+423,19-Oct-18,MP-17965,49,Female,Lawrence,Souvenir,5,11.73,58.65,Cash,56.56
+424,19-Oct-18,MP-17965,57,Male,Lawrence,Shoes,2,600.17,1200.34,Credit Card,32.7
+425,21-Aug-18,NF-18385,54,Female,Jackson,Toys,4,35.84,143.36,Credit Card,866.4
+426,23-Nov-18,JM-15265,41,Female,Canton,Cosmetics,3,40.66,121.98,Credit Card,28.4
+427,23-Nov-18,JM-15265,21,Female,Canton,Shoes,3,600.17,1800.51,Cash,287.92
+428,12-Sep-15,SD-20485,45,Female,New Rochelle,Toys,1,35.84,35.84,Debit Card,69.99
+429,1-Oct-18,KH-16630,58,Female,San Antonio,Shoes,3,600.17,1800.51,Credit Card,6.672
+430,15-Apr-17,RB-19795,53,Male,Gastonia,Food & Beverage,4,5.23,20.92,Cash,189.588
+431,15-Apr-17,RB-19795,53,Female,Gastonia,Clothing,5,300.08,1500.4,Credit Card,408.744
+432,15-Apr-17,RB-19795,39,Male,Gastonia,Food & Beverage,5,5.23,26.15,Debit Card,291.96
+433,15-Apr-17,RB-19795,21,Female,Gastonia,Shoes,1,600.17,600.17,Cash,4.768
+434,6-Jun-17,DB-13060,51,Female,Lowell,Toys,1,35.84,35.84,Credit Card,714.3
+435,19-Dec-15,MK-18160,50,Male,Jacksonville,Clothing,2,300.08,600.16,Debit Card,4.812
+436,19-Dec-15,MK-18160,50,Female,Jacksonville,Cosmetics,4,40.66,162.64,Cash,247.8
+437,12-Jun-17,PO-19180,61,Male,Chicago,Food & Beverage,3,5.23,15.69,Cash,1007.979
+438,12-Jun-17,PO-19180,44,Male,Chicago,Food & Beverage,5,5.23,26.15,Credit Card,313.488
+439,15-Sep-18,BB-11545,31,Female,Houston,Souvenir,4,11.73,46.92,Debit Card,31.872
+440,20-Jan-18,CV-12805,64,Male,New York City,Food & Beverage,1,5.23,5.23,Credit Card,207.846
+441,5-Sep-17,PK-19075,50,Male,Detroit,Clothing,2,300.08,600.16,Credit Card,12.22
+442,5-Sep-17,PK-19075,45,Male,Detroit,Clothing,1,300.08,300.08,Credit Card,194.94
+443,5-Sep-17,PK-19075,29,Female,Detroit,Technology,4,1050,4200,Debit Card,70.95
+444,5-Sep-17,PK-19075,33,Female,Detroit,Clothing,1,300.08,300.08,Cash,91.36
+445,5-Sep-17,PK-19075,29,Male,Detroit,Food & Beverage,2,5.23,10.46,Cash,242.94
+446,5-Sep-17,PK-19075,65,Male,Detroit,Technology,3,1050,3150,Credit Card,22.05
+447,20-Mar-18,TB-21595,66,Female,Columbus,Clothing,1,300.08,300.08,Cash,2.91
+448,1-Apr-17,RB-19360,54,Male,Auburn,Cosmetics,3,40.66,121.98,Credit Card,59.52
+449,1-Apr-17,RB-19360,44,Male,Auburn,Technology,4,1050,4200,Credit Card,161.94
+450,1-Apr-17,RB-19360,46,Male,Auburn,Toys,5,35.84,179.2,Cash,263.88
+451,1-Apr-17,RB-19360,37,Male,Auburn,Food & Beverage,5,5.23,26.15,Cash,30.48
+452,1-Apr-17,RB-19360,22,Female,Auburn,Food & Beverage,5,5.23,26.15,Credit Card,9.84
+453,1-Apr-17,RB-19360,55,Female,Auburn,Cosmetics,4,40.66,162.64,Cash,35.12
+454,20-Oct-18,EB-13705,41,Male,Akron,Technology,2,1050,2100,Cash,284.364
+455,20-Oct-18,EB-13705,42,Male,Akron,Toys,3,35.84,107.52,Credit Card,665.408
+456,13-Dec-17,KH-16630,24,Male,Norman,Shoes,3,600.17,1800.51,Credit Card,63.88
+457,12-Feb-15,SC-20095,43,Female,Concord,Cosmetics,4,40.66,162.64,Cash,129.568
+458,26-Sep-17,NF-18385,40,Male,Decatur,Clothing,3,300.08,900.24,Credit Card,747.558
+459,26-Sep-17,NF-18385,22,Female,Decatur,Cosmetics,4,40.66,162.64,Cash,8.928
+460,15-Dec-16,JH-15985,27,Female,Seattle,Books,1,15.15,15.15,Cash,103.92
+461,15-Dec-16,JH-15985,68,Female,Seattle,Cosmetics,2,40.66,81.32,Credit Card,899.91
+462,15-Dec-16,JH-15985,48,Female,Seattle,Clothing,2,300.08,600.16,Credit Card,51.312
+463,22-Apr-17,TN-21040,56,Female,Phoenix,Clothing,3,300.08,900.24,Cash,23.56
+464,22-Apr-17,TN-21040,25,Male,Phoenix,Clothing,3,300.08,900.24,Debit Card,1272.63
+465,22-Apr-17,TN-21040,30,Male,Phoenix,Food & Beverage,4,5.23,20.92,Cash,28.485
+466,22-Apr-17,TN-21040,49,Female,Phoenix,Toys,5,35.84,179.2,Credit Card,185.376
+467,22-Apr-17,TN-21040,57,Male,Phoenix,Clothing,2,300.08,600.16,Credit Card,78.272
+468,17-Jan-16,JS-15940,46,Female,Park Ridge,Food & Beverage,4,5.23,20.92,Cash,254.744
+469,31-Mar-18,DS-13180,29,Male,Amarillo,Food & Beverage,3,5.23,15.69,Cash,205.3328
+470,16-Dec-17,CC-12670,69,Female,Chicago,Cosmetics,1,40.66,40.66,Debit Card,4.788
+471,20-Dec-16,MH-17785,42,Female,Lindenhurst,Cosmetics,2,40.66,81.32,Debit Card,55.48
+472,9-Nov-15,JP-15520,38,Female,San Francisco,Toys,1,35.84,35.84,Credit Card,340.92
+473,9-Nov-15,JP-15520,46,Female,San Francisco,Clothing,2,300.08,600.16,Debit Card,222.666
+474,9-Nov-15,JP-15520,31,Male,San Francisco,Cosmetics,3,40.66,121.98,Debit Card,703.968
+475,9-Nov-15,JP-15520,26,Male,San Francisco,Clothing,5,300.08,1500.4,Cash,92.52
+476,9-Nov-15,JP-15520,48,Female,San Francisco,Cosmetics,3,40.66,121.98,Cash,62.65
+477,9-Nov-15,JP-15520,30,Male,San Francisco,Books,5,15.15,75.75,Credit Card,94.85
+478,12-Jul-17,KH-16690,56,Male,Los Angeles,Clothing,1,300.08,300.08,Cash,95.76
+479,27-Oct-17,JE-15475,65,Male,Troy,Food & Beverage,2,5.23,10.46,Cash,40.2
+480,26-Jun-17,JG-15805,53,Female,New York City,Clothing,2,300.08,600.16,Credit Card,14.7
+481,26-Jun-17,JG-15805,43,Female,New York City,Clothing,3,300.08,900.24,Cash,704.25
+482,6-Oct-15,XP-21865,26,Male,San Diego,Food & Beverage,2,5.23,10.46,Cash,9.09
+483,22-Jul-15,EM-14065,23,Male,New York City,Clothing,5,300.08,1500.4,Debit Card,5.96
+484,22-Jul-15,EM-14065,54,Female,New York City,Shoes,4,600.17,2400.68,Credit Card,159.98
+485,10-Jun-18,MT-18070,56,Male,Los Angeles,Clothing,4,300.08,1200.32,Cash,29.6
+486,10-Jun-18,MT-18070,37,Female,Los Angeles,Toys,2,35.84,71.68,Cash,514.165
+487,10-Jun-18,MT-18070,48,Male,Los Angeles,Clothing,3,300.08,900.24,Debit Card,279.96
+488,29-Oct-15,SA-20830,56,Male,Chicago,Food & Beverage,2,5.23,10.46,Debit Card,2735.952
+489,9-Jun-15,CW-11905,58,Female,Huntsville,Souvenir,2,11.73,23.46,Cash,7.992
+490,9-Jun-15,CW-11905,40,Female,Huntsville,Food & Beverage,3,5.23,15.69,Credit Card,63.984
+491,9-Jun-15,CW-11905,38,Female,Huntsville,Shoes,5,600.17,3000.85,Debit Card,70.368
+492,14-Sep-15,AJ-10960,40,Female,Rochester,Cosmetics,3,40.66,121.98,Credit Card,449.15
+493,14-Sep-15,AJ-10960,64,Male,Rochester,Toys,1,35.84,35.84,Cash,11.07
+494,9-May-17,SS-20590,28,Male,Seattle,Souvenir,5,11.73,58.65,Debit Card,93.98
+495,18-Mar-17,RO-19780,49,Male,Memphis,Cosmetics,4,40.66,162.64,Debit Card,189.882
+496,27-Dec-16,MD-17350,51,Male,Fayetteville,Food & Beverage,3,5.23,15.69,Cash,105.42
+497,25-Jul-17,SC-20095,22,Male,Costa Mesa,Clothing,3,300.08,900.24,Credit Card,119.616
+498,25-Jul-17,SC-20095,67,Female,Costa Mesa,Clothing,5,300.08,1500.4,Debit Card,255.76
+499,25-Jul-17,SC-20095,22,Female,Costa Mesa,Toys,2,35.84,71.68,Credit Card,241.568
+500,25-Jul-17,SC-20095,26,Female,Costa Mesa,Clothing,3,300.08,900.24,Cash,69.3
+501,30-May-17,MY-17380,42,Female,Parker,Toys,1,35.84,35.84,Debit Card,22.62
+502,30-May-17,MY-17380,45,Female,Parker,Books,1,15.15,15.15,Credit Card,14.952
+503,30-May-17,MY-17380,43,Female,Parker,Clothing,1,300.08,300.08,Credit Card,801.568
+504,30-May-17,MY-17380,35,Female,Parker,Cosmetics,2,40.66,81.32,Debit Card,2.376
+505,30-May-17,MY-17380,49,Male,Parker,Clothing,3,300.08,900.24,Credit Card,32.792
+506,12-Nov-18,EB-13705,49,Female,New York City,Food & Beverage,3,5.23,15.69,Cash,15.92
+507,16-Mar-16,CM-12385,33,Male,Atlanta,Clothing,5,300.08,1500.4,Cash,2.74
+508,16-Mar-16,CM-12385,65,Female,Atlanta,Food & Beverage,2,5.23,10.46,Cash,8.34
+509,16-Mar-16,CM-12385,40,Male,Atlanta,Souvenir,4,11.73,46.92,Cash,46.74
+510,16-Mar-16,CM-12385,68,Male,Atlanta,Technology,2,1050,2100,Cash,6354.95
+511,26-Nov-18,LS-17245,26,Female,Gladstone,Cosmetics,4,40.66,162.64,Cash,126.3
+512,26-Nov-18,LS-17245,38,Male,Gladstone,Toys,1,35.84,35.84,Debit Card,38.04
+513,20-Oct-17,LF-17185,56,Female,Newark,Cosmetics,4,40.66,162.64,Credit Card,7.152
+514,21-Dec-18,BN-11515,19,Male,Los Angeles,Cosmetics,1,40.66,40.66,Cash,6.63
+515,21-Dec-18,BN-11515,18,Female,Los Angeles,Cosmetics,2,40.66,81.32,Cash,5.88
+516,22-Jan-18,AD-10180,55,Male,Great Falls,Food & Beverage,1,5.23,5.23,Credit Card,2999.95
+517,22-Jan-18,AD-10180,53,Female,Great Falls,Cosmetics,2,40.66,81.32,Cash,51.45
+518,22-Jan-18,AD-10180,69,Female,Great Falls,Cosmetics,1,40.66,40.66,Cash,11.96
+519,22-Jan-18,AD-10180,27,Male,Great Falls,Cosmetics,3,40.66,121.98,Cash,1126.02
+520,22-Mar-16,DB-13210,36,Female,Houston,Food & Beverage,2,5.23,10.46,Cash,18.392
+521,22-Mar-16,DB-13210,61,Female,Houston,Shoes,5,600.17,3000.85,Debit Card,129.568
+522,22-Mar-16,DB-13210,43,Female,Houston,Cosmetics,5,40.66,203.3,Credit Card,14.112
+523,23-Jan-18,MC-17605,51,Female,Detroit,Food & Beverage,4,5.23,20.92,Credit Card,210.98
+524,21-May-17,LH-17155,38,Male,Los Angeles,Toys,4,35.84,143.36,Credit Card,55.176
+525,21-May-17,LH-17155,34,Male,Los Angeles,Food & Beverage,2,5.23,10.46,Debit Card,66.26
+526,26-Dec-16,BD-11605,23,Male,Lawrence,Food & Beverage,5,5.23,26.15,Credit Card,22.2
+527,21-Oct-18,PH-18790,56,Male,Lakeland,Food & Beverage,4,5.23,20.92,Credit Card,683.952
+528,21-Oct-18,PH-18790,60,Male,Lakeland,Food & Beverage,4,5.23,20.92,Credit Card,45.696
+529,3-Sep-16,MG-18145,59,Female,Philadelphia,Souvenir,4,11.73,46.92,Cash,36.336
+530,3-Sep-16,MG-18145,43,Male,Philadelphia,Clothing,1,300.08,300.08,Credit Card,666.248
+531,3-Sep-16,MG-18145,55,Male,Philadelphia,Books,4,15.15,60.6,Cash,52.512
+532,7-Nov-16,KB-16240,40,Male,Los Angeles,Clothing,3,300.08,900.24,Cash,190.72
+533,7-Sep-18,JC-15340,43,Female,Los Angeles,Food & Beverage,2,5.23,10.46,Credit Card,47.94
+534,29-May-17,RL-19615,59,Male,Montgomery,Food & Beverage,4,5.23,20.92,Credit Card,979.95
+535,29-May-17,RL-19615,24,Male,Montgomery,Books,5,15.15,75.75,Debit Card,22.75
+536,10-Jul-17,AA-10375,63,Female,Mesa,Clothing,5,300.08,1500.4,Credit Card,16.768
+537,3-Sep-18,EP-13915,31,Male,Chicago,Food & Beverage,2,5.23,10.46,Cash,42.616
+538,3-Dec-16,MP-17470,69,Female,New York City,Clothing,2,300.08,600.16,Credit Card,10.752
+539,7-Dec-16,DK-12985,36,Female,Henderson,Books,3,15.15,45.45,Credit Card,152.94
+540,7-Dec-16,DK-12985,54,Female,Henderson,Clothing,3,300.08,900.24,Cash,283.92
+541,1-Feb-15,BD-11500,22,Male,Green Bay,Food & Beverage,3,5.23,15.69,Cash,468.9
+542,14-Jul-17,ES-14080,39,Male,Tucson,Food & Beverage,1,5.23,5.23,Cash,380.864
+543,18-Dec-16,LM-17065,26,Male,Springfield,Cosmetics,3,40.66,121.98,Debit Card,646.776
+544,11-May-15,PG-18895,44,Male,Fort Worth,Shoes,2,600.17,1200.34,Credit Card,58.112
+545,11-May-15,PG-18895,35,Female,Fort Worth,Toys,1,35.84,35.84,Debit Card,100.792
+546,11-May-15,PG-18895,66,Female,Fort Worth,Shoes,1,600.17,600.17,Debit Card,66.112
+547,19-Nov-18,AS-10135,61,Male,New York City,Shoes,1,600.17,600.17,Cash,41.28
+548,19-Nov-18,AS-10135,30,Female,New York City,Cosmetics,2,40.66,81.32,Credit Card,13.36
+549,15-Nov-16,DK-13225,55,Male,Chicago,Toys,5,35.84,179.2,Debit Card,250.272
+550,15-Nov-16,DK-13225,22,Female,Chicago,Books,3,15.15,45.45,Debit Card,11.364
+551,15-Nov-16,DK-13225,51,Female,Chicago,Clothing,1,300.08,300.08,Debit Card,8.72
+552,15-Apr-17,BD-11320,53,Male,San Francisco,Cosmetics,4,40.66,162.64,Cash,1121.568
+553,11-Sep-18,RC-19960,54,Female,Jacksonville,Clothing,5,300.08,1500.4,Credit Card,34.504
+554,24-Nov-18,GT-14710,34,Male,Houston,Clothing,2,300.08,600.16,Credit Card,10.824
+555,29-Jun-18,DK-13225,49,Female,Anaheim,Clothing,1,300.08,300.08,Credit Card,1295.78
+556,3-Mar-15,AJ-10945,41,Female,Wilmington,Souvenir,4,11.73,46.92,Cash,19.456
+557,10-Jun-17,OT-18730,34,Female,Los Angeles,Clothing,1,300.08,300.08,Credit Card,20.7
+558,10-Jun-17,OT-18730,59,Female,Los Angeles,Cosmetics,3,40.66,121.98,Cash,1335.68
+559,10-Jun-17,OT-18730,20,Female,Los Angeles,Food & Beverage,2,5.23,10.46,Cash,32.4
+560,20-Nov-18,LP-17080,23,Female,San Francisco,Clothing,5,300.08,1500.4,Cash,42.6
+561,20-Nov-18,LP-17080,25,Female,San Francisco,Clothing,3,300.08,900.24,Credit Card,84.056
+562,14-Sep-15,CA-12775,63,Female,Tampa,Toys,3,35.84,107.52,Debit Card,13
+563,14-Sep-15,CA-12775,68,Male,Tampa,Technology,1,1050,1050,Credit Card,13.128
+564,7-Dec-16,JF-15490,58,Male,Seattle,Shoes,1,600.17,600.17,Debit Card,3.96
+565,7-Dec-16,JF-15490,58,Male,Seattle,Shoes,1,600.17,600.17,Debit Card,2.61
+566,7-Dec-18,FP-14320,47,Male,Los Angeles,Clothing,1,300.08,300.08,Credit Card,374.376
+567,1-Oct-18,EB-13840,22,Female,Seattle,Clothing,5,300.08,1500.4,Credit Card,91.84
+568,1-Oct-18,EB-13840,51,Female,Seattle,Cosmetics,1,40.66,40.66,Credit Card,81.088
+569,1-Oct-18,EB-13840,56,Male,Seattle,Food & Beverage,5,5.23,26.15,Cash,19.44
+570,1-Oct-18,EB-13840,33,Male,Seattle,Clothing,5,300.08,1500.4,Cash,451.152
+571,28-Dec-18,JF-15415,27,Male,New York City,Technology,5,1050,5250,Debit Card,72.45
+572,28-Dec-18,JF-15415,50,Male,New York City,Shoes,4,600.17,2400.68,Cash,13.96
+573,28-Dec-18,JF-15415,49,Female,New York City,Technology,1,1050,1050,Cash,33.264
+574,28-Dec-18,JF-15415,52,Female,New York City,Souvenir,5,11.73,58.65,Cash,14.85
+575,3-Nov-17,SF-20200,54,Male,Marysville,Clothing,1,300.08,300.08,Cash,8.82
+576,18-Sep-16,TG-21640,19,Male,Long Beach,Cosmetics,3,40.66,121.98,Credit Card,160.72
+577,18-Sep-16,TG-21640,49,Female,Long Beach,Cosmetics,5,40.66,203.3,Debit Card,19.92
+578,18-Sep-16,TG-21640,44,Female,Long Beach,Cosmetics,4,40.66,162.64,Credit Card,7.3
+579,20-Jul-18,CS-11950,69,Male,Chicago,Food & Beverage,4,5.23,20.92,Credit Card,69.712
+580,20-Jul-18,CS-11950,41,Female,Chicago,Clothing,5,300.08,1500.4,Debit Card,8.792
+581,10-Sep-16,CC-12145,25,Female,Los Angeles,Toys,2,35.84,71.68,Cash,51.52
+582,1-Dec-18,DV-13465,51,Female,Denver,Shoes,4,600.17,2400.68,Cash,470.376
+583,1-Dec-18,DV-13465,53,Female,Denver,Shoes,1,600.17,600.17,Cash,105.584
+584,1-Dec-18,DV-13465,20,Female,Denver,Clothing,3,300.08,900.24,Credit Card,31.152
+585,1-Dec-18,DV-13465,62,Male,Denver,Clothing,1,300.08,300.08,Cash,6.783
+586,1-Dec-18,DV-13465,30,Female,Denver,Cosmetics,3,40.66,121.98,Debit Card,406.368
+587,3-Jul-16,BD-11725,47,Female,Richmond,Cosmetics,1,40.66,40.66,Cash,70.98
+588,3-Jul-16,BD-11725,40,Male,Richmond,Shoes,4,600.17,2400.68,Credit Card,294.93
+589,20-Mar-17,ZC-21910,35,Female,Salem,Clothing,3,300.08,900.24,Credit Card,84.784
+590,20-Mar-17,ZC-21910,41,Female,Salem,Cosmetics,5,40.66,203.3,Cash,20.736
+591,20-Mar-17,ZC-21910,48,Female,Salem,Clothing,2,300.08,600.16,Cash,16.821
+592,20-Mar-17,ZC-21910,26,Male,Salem,Food & Beverage,5,5.23,26.15,Cash,10.368
+593,9-Jan-15,MS-17830,27,Female,Laredo,Food & Beverage,1,5.23,5.23,Cash,9.344
+594,9-Jan-15,MS-17830,26,Female,Laredo,Souvenir,5,11.73,58.65,Debit Card,31.2
+595,8-Aug-15,LR-16915,65,Female,San Diego,Food & Beverage,3,5.23,15.69,Credit Card,76.12
+596,8-Aug-15,LR-16915,25,Female,San Diego,Cosmetics,2,40.66,81.32,Credit Card,1199.976
+597,8-Aug-15,LR-16915,19,Female,San Diego,Books,4,15.15,60.6,Credit Card,445.96
+598,8-Aug-15,LR-16915,21,Male,San Diego,Technology,4,1050,4200,Credit Card,327.76
+599,14-Jul-17,TP-21130,61,Female,Philadelphia,Food & Beverage,5,5.23,26.15,Cash,11.632
+600,16-Jul-17,CK-12205,65,Female,Philadelphia,Toys,5,35.84,179.2,Debit Card,143.982
+601,16-Jul-17,CK-12205,23,Female,Philadelphia,Cosmetics,4,40.66,162.64,Credit Card,494.376
+602,16-Jul-17,CK-12205,42,Male,Philadelphia,Clothing,3,300.08,900.24,Cash,5.84
+603,15-Mar-15,AS-10240,33,Male,Tampa,Food & Beverage,3,5.23,15.69,Credit Card,142.776
+604,15-Mar-15,AS-10240,54,Female,Tampa,Clothing,2,300.08,600.16,Credit Card,45.696
+605,15-Mar-15,AS-10240,67,Female,Tampa,Food & Beverage,4,5.23,20.92,Credit Card,7.218
+606,15-Mar-15,AS-10240,41,Female,Tampa,Food & Beverage,1,5.23,5.23,Cash,43.188
+607,15-Mar-15,AS-10240,57,Female,Tampa,Books,5,15.15,75.75,Cash,131.904
+608,23-May-15,AR-10510,35,Female,Philadelphia,Clothing,1,300.08,300.08,Cash,3.282
+609,23-May-15,AR-10510,62,Male,Philadelphia,Clothing,1,300.08,300.08,Cash,21.168
+610,23-May-15,AR-10510,26,Male,Philadelphia,Toys,1,35.84,35.84,Cash,55.188
+611,28-Apr-17,NB-18655,48,Male,Dallas,Cosmetics,4,40.66,162.64,Cash,369.576
+612,28-Apr-17,NB-18655,57,Female,Dallas,Clothing,4,300.08,1200.32,Cash,15.712
+613,11-Sep-17,GD-14590,53,Female,Philadelphia,Shoes,2,600.17,1200.34,Cash,8.448
+614,11-Sep-17,GD-14590,58,Male,Philadelphia,Cosmetics,4,40.66,162.64,Cash,728.946
+615,14-Nov-18,CK-12595,32,Female,Grove City,Clothing,2,300.08,600.16,Credit Card,119.94
+616,14-Nov-18,CK-12595,23,Female,Grove City,Food & Beverage,5,5.23,26.15,Cash,3.648
+617,18-Aug-18,NG-18355,49,Female,New York City,Toys,4,35.84,143.36,Cash,40.48
+618,18-Aug-18,NG-18355,26,Female,New York City,Clothing,4,300.08,1200.32,Credit Card,9.94
+619,18-Aug-18,NG-18355,62,Female,New York City,Clothing,5,300.08,1500.4,Credit Card,107.424
+620,18-Aug-18,NG-18355,30,Male,New York City,Toys,1,35.84,35.84,Cash,37.91
+621,18-Aug-18,NG-18355,28,Female,New York City,Clothing,2,300.08,600.16,Credit Card,88.02
+622,26-Dec-15,CA-12265,65,Female,Chicago,Shoes,2,600.17,1200.34,Debit Card,8.69
+623,29-Nov-16,SF-20965,56,Female,Dearborn,Toys,1,35.84,35.84,Credit Card,301.96
+624,29-Nov-16,SF-20965,40,Female,Dearborn,Food & Beverage,3,5.23,15.69,Cash,555.21
+625,29-Nov-16,SF-20965,55,Male,Dearborn,Clothing,4,300.08,1200.32,Credit Card,523.48
+626,29-Nov-16,SF-20965,61,Female,Dearborn,Toys,2,35.84,71.68,Credit Card,161.82
+627,15-Sep-18,MO-17800,35,Female,New York City,Souvenir,5,11.73,58.65,Cash,35.56
+628,19-May-18,AT-10735,37,Female,Seattle,Shoes,1,600.17,600.17,Cash,97.16
+629,17-Dec-18,LC-17140,32,Male,San Francisco,Cosmetics,1,40.66,40.66,Cash,15.24
+630,17-Dec-18,LC-17140,68,Female,San Francisco,Souvenir,1,11.73,11.73,Debit Card,13.23
+631,11-Dec-17,FM-14380,44,Female,Aurora,Clothing,2,300.08,600.16,Cash,243.384
+632,11-Dec-17,FM-14380,61,Female,Aurora,Cosmetics,4,40.66,162.64,Credit Card,119.8
+633,11-Dec-17,FM-14380,38,Male,Aurora,Clothing,4,300.08,1200.32,Cash,300.768
+634,24-Sep-18,BD-11605,66,Female,Miami,Clothing,3,300.08,900.24,Credit Card,17.88
+635,24-Sep-18,BD-11605,53,Female,Miami,Clothing,5,300.08,1500.4,Cash,235.944
+636,4-Oct-16,DJ-13420,21,Female,Warner Robins,Food & Beverage,4,5.23,20.92,Credit Card,392.94
+637,15-Aug-17,ME-17725,61,Male,Aurora,Cosmetics,2,40.66,81.32,Cash,18.882
+638,15-Aug-17,ME-17725,32,Female,Aurora,Food & Beverage,4,5.23,20.92,Debit Card,122.328
+639,20-May-17,RB-19465,46,Female,Vallejo,Clothing,1,300.08,300.08,Cash,1049.2
+640,20-May-17,RB-19465,25,Male,Vallejo,Toys,2,35.84,71.68,Cash,15.424
+641,18-Dec-17,JD-16150,49,Female,Minneapolis,Cosmetics,1,40.66,40.66,Credit Card,18.84
+642,30-Jul-18,JL-15835,26,Female,Mission Viejo,Clothing,3,300.08,900.24,Cash,330.4
+643,30-Jul-18,JL-15835,40,Female,Mission Viejo,Clothing,2,300.08,600.16,Credit Card,26.25
+644,10-Jun-18,SC-20305,20,Female,Rochester Hills,Clothing,4,300.08,1200.32,Credit Card,132.52
+645,21-Jul-18,TW-21025,38,Female,Plainfield,Cosmetics,4,40.66,162.64,Cash,6.48
+646,30-Dec-18,CC-12430,63,Female,Columbus,Cosmetics,2,40.66,81.32,Cash,209.3
+647,1-Apr-17,BB-10990,25,Male,Sierra Vista,Shoes,2,600.17,1200.34,Credit Card,31.56
+648,1-Apr-17,BB-10990,19,Female,Sierra Vista,Clothing,1,300.08,300.08,Cash,30.144
+649,11-Dec-17,AR-10825,53,Female,Vancouver,Cosmetics,4,40.66,162.64,Cash,14.8
+650,11-Dec-17,AR-10825,51,Female,Vancouver,Shoes,1,600.17,600.17,Cash,302.376
+651,11-Dec-17,AR-10825,56,Male,Vancouver,Souvenir,2,11.73,23.46,Credit Card,316
+652,23-Oct-17,SR-20740,29,Male,New York City,Toys,4,35.84,143.36,Cash,379.4
+653,19-Jun-18,AR-10405,20,Female,New York City,Shoes,4,600.17,2400.68,Debit Card,97.82
+654,19-Jun-18,AR-10405,35,Female,New York City,Books,1,15.15,15.15,Credit Card,103.12
+655,22-Aug-17,CR-12730,62,Female,Columbus,Food & Beverage,2,5.23,10.46,Cash,113.552
+656,22-Aug-17,CR-12730,32,Female,Columbus,Clothing,4,300.08,1200.32,Cash,3.318
+657,22-Aug-17,CR-12730,48,Male,Columbus,Technology,5,1050,5250,Cash,134.288
+658,19-Sep-17,EH-14125,43,Male,Aurora,Cosmetics,3,40.66,121.98,Debit Card,701.372
+659,19-Sep-17,EH-14125,57,Female,Aurora,Clothing,4,300.08,1200.32,Credit Card,2.308
+660,24-Aug-16,CB-12025,33,Male,Arlington,Clothing,2,300.08,600.16,Cash,999.432
+661,24-Aug-16,CB-12025,49,Female,Arlington,Food & Beverage,1,5.23,5.23,Cash,724.08
+662,24-Aug-16,CB-12025,29,Female,Arlington,Clothing,4,300.08,1200.32,Cash,918.785
+663,24-Aug-16,CB-12025,43,Female,Arlington,Food & Beverage,2,5.23,10.46,Credit Card,2.724
+664,26-Mar-17,SP-20545,36,Female,New York City,Food & Beverage,5,5.23,26.15,Credit Card,459.95
+665,4-Nov-17,RC-19825,59,Female,Louisville,Shoes,5,600.17,3000.85,Cash,10.74
+666,8-Jun-18,TH-21235,31,Female,Dallas,Clothing,5,300.08,1500.4,Credit Card,23.76
+667,8-Jun-18,TH-21235,51,Female,Dallas,Food & Beverage,2,5.23,10.46,Debit Card,85.056
+668,8-Jun-18,TH-21235,27,Male,Dallas,Technology,4,1050,4200,Cash,381.576
+669,24-Dec-15,RP-19390,62,Female,Cleveland,Cosmetics,5,40.66,203.3,Credit Card,30.36
+670,9-Jun-18,MO-17800,44,Male,Chicago,Clothing,5,300.08,1500.4,Debit Card,23.976
+671,9-Jun-18,MO-17800,18,Female,Chicago,Shoes,4,600.17,2400.68,Debit Card,108.925
+672,9-Jun-18,MO-17800,52,Female,Chicago,Food & Beverage,5,5.23,26.15,Credit Card,36.352
+673,15-Jun-18,TD-20995,60,Male,Quincy,Technology,3,1050,3150,Credit Card,19.56
+674,5-Dec-18,RB-19570,34,Female,Columbus,Food & Beverage,3,5.23,15.69,Debit Card,61.44
+675,5-Dec-18,RB-19570,47,Male,Columbus,Clothing,1,300.08,300.08,Cash,38.9
+676,5-Dec-18,RB-19570,58,Female,Columbus,Toys,1,35.84,35.84,Cash,99.39
+677,18-Mar-18,CD-11980,51,Female,Tyler,Clothing,4,300.08,1200.32,Credit Card,2.688
+678,18-Mar-18,CD-11980,32,Female,Tyler,Clothing,3,300.08,900.24,Debit Card,27.816
+679,18-Mar-18,CD-11980,23,Female,Tyler,Toys,5,35.84,179.2,Credit Card,82.524
+680,18-Mar-18,CD-11980,38,Female,Tyler,Toys,4,35.84,143.36,Cash,182.994
+681,19-Nov-17,DJ-13630,63,Male,New York City,Souvenir,2,11.73,23.46,Credit Card,14.352
+682,19-Nov-17,DJ-13630,50,Female,New York City,Food & Beverage,3,5.23,15.69,Cash,64.96
+683,19-Nov-17,DJ-13630,64,Male,New York City,Cosmetics,2,40.66,81.32,Cash,68.6
+684,4-Nov-18,GT-14635,51,Male,Burlington,Clothing,2,300.08,600.16,Cash,7999.98
+685,4-Nov-18,GT-14635,21,Male,Burlington,Food & Beverage,1,5.23,5.23,Debit Card,167.44
+686,5-Jul-15,MC-17845,20,Female,Jackson,Cosmetics,3,40.66,121.98,Cash,479.97
+687,5-Jul-15,MC-17845,34,Male,Jackson,Food & Beverage,3,5.23,15.69,Credit Card,14.62
+688,5-Jul-15,MC-17845,26,Female,Jackson,Cosmetics,4,40.66,162.64,Debit Card,19.44
+689,25-Dec-18,RA-19285,19,Female,New York City,Clothing,3,300.08,900.24,Credit Card,191.984
+690,21-Jun-15,NP-18325,47,Female,Waynesboro,Food & Beverage,3,5.23,15.69,Credit Card,104.01
+691,21-Jun-15,NP-18325,47,Male,Waynesboro,Clothing,4,300.08,1200.32,Cash,284.82
+692,21-Jun-15,NP-18325,56,Female,Waynesboro,Toys,2,35.84,71.68,Credit Card,36.84
+693,28-Mar-16,AB-10165,42,Male,Los Angeles,Clothing,5,300.08,1500.4,Debit Card,166.24
+694,28-Mar-16,AB-10165,49,Male,Los Angeles,Souvenir,5,11.73,58.65,Cash,33.4
+695,14-May-16,JO-15550,51,Female,Chester,Shoes,3,600.17,1800.51,Debit Card,198.272
+696,14-May-16,JO-15550,41,Female,Chester,Technology,4,1050,4200,Cash,47.36
+697,14-May-16,JO-15550,27,Male,Chester,Food & Beverage,1,5.23,5.23,Cash,200.984
+698,14-May-16,JO-15550,61,Female,Chester,Clothing,5,300.08,1500.4,Debit Card,97.696
+699,14-May-16,JO-15550,38,Female,Chester,Shoes,4,600.17,2400.68,Cash,2.696
+700,14-May-16,JO-15550,42,Male,Chester,Clothing,1,300.08,300.08,Credit Card,18.588
+701,14-May-16,JO-15550,58,Male,Chester,Food & Beverage,1,5.23,5.23,Debit Card,4.896
+702,2-Sep-18,Dl-13600,57,Female,Cleveland,Souvenir,3,11.73,35.19,Cash,15.072
+703,4-Nov-17,AS-10285,23,Male,Seattle,Clothing,3,300.08,900.24,Cash,209.88
+704,9-Apr-16,JK-15370,62,Female,Long Beach,Clothing,1,300.08,300.08,Debit Card,369.912
+705,12-Sep-15,BN-11470,31,Male,Cary,Shoes,3,600.17,1800.51,Cash,10.368
+706,12-Sep-15,BN-11470,54,Female,Cary,Clothing,1,300.08,300.08,Credit Card,166.84
+707,12-Sep-15,BN-11470,19,Male,Cary,Clothing,4,300.08,1200.32,Credit Card,15.216
+708,2-Dec-15,DP-13165,68,Male,New York City,Cosmetics,5,40.66,203.3,Cash,119.96
+709,2-Dec-15,DP-13165,44,Male,New York City,Clothing,5,300.08,1500.4,Credit Card,883.92
+710,2-Dec-15,DP-13165,44,Female,New York City,Clothing,2,300.08,600.16,Credit Card,46.72
+711,5-Apr-15,TH-21550,29,Female,New York City,Shoes,3,600.17,1800.51,Cash,55.48
+712,3-Sep-18,AP-10915,67,Female,Palm Coast,Food & Beverage,4,5.23,20.92,Credit Card,24.448
+713,19-May-18,RS-19765,28,Female,Mount Vernon,Shoes,5,600.17,3000.85,Debit Card,281.34
+714,19-May-18,RS-19765,34,Female,Mount Vernon,Clothing,5,300.08,1500.4,Credit Card,307.98
+715,19-May-18,RS-19765,45,Male,Mount Vernon,Toys,2,35.84,71.68,Debit Card,299.97
+716,1-Jul-15,Dl-13600,55,Female,Seattle,Clothing,2,300.08,600.16,Debit Card,19.92
+717,11-Jan-15,SV-20365,69,Female,Dover,Food & Beverage,2,5.23,10.46,Debit Card,9.94
+718,24-Sep-18,KC-16540,30,Male,Newark,Food & Beverage,4,5.23,20.92,Credit Card,103.056
+719,2-Jun-15,CK-12325,38,Female,Orem,Clothing,2,300.08,600.16,Cash,59.808
+720,2-Jun-15,CK-12325,39,Male,Orem,Cosmetics,1,40.66,40.66,Debit Card,73.32
+721,13-Feb-17,RD-19810,63,Female,Los Angeles,Toys,4,35.84,143.36,Debit Card,146.82
+722,15-Dec-17,MP-17965,49,Male,Detroit,Cosmetics,1,40.66,40.66,Cash,1652.94
+723,15-Dec-17,MP-17965,66,Female,Detroit,Shoes,4,600.17,2400.68,Credit Card,296.37
+724,7-Oct-15,MR-17545,68,Female,Philadelphia,Food & Beverage,1,5.23,5.23,Cash,129.92
+725,7-Jul-17,SC-20695,18,Male,Hialeah,Clothing,5,300.08,1500.4,Cash,45.584
+726,16-Sep-18,JF-15355,42,Female,Austin,Shoes,3,600.17,1800.51,Cash,17.568
+727,16-Sep-18,JF-15355,54,Female,Austin,Clothing,4,300.08,1200.32,Cash,55.992
+728,3-Dec-17,EG-13900,43,Male,Oceanside,Clothing,5,300.08,1500.4,Credit Card,182.72
+729,3-Dec-17,EG-13900,54,Male,Oceanside,Clothing,1,300.08,300.08,Cash,400.032
+730,3-Dec-17,EG-13900,43,Male,Oceanside,Shoes,4,600.17,2400.68,Credit Card,33.63
+731,3-Dec-17,EG-13900,44,Male,Oceanside,Clothing,3,300.08,900.24,Credit Card,542.646
+732,3-Dec-17,EG-13900,36,Male,Oceanside,Technology,2,1050,2100,Debit Card,6.3
+733,21-Jan-18,DS-13030,41,Female,Seattle,Food & Beverage,2,5.23,10.46,Cash,242.94
+734,21-Jan-18,DS-13030,45,Female,Seattle,Clothing,1,300.08,300.08,Credit Card,179.97
+735,21-Jan-18,DS-13030,41,Female,Seattle,Clothing,2,300.08,600.16,Cash,99.696
+736,21-Jan-18,DS-13030,58,Male,Seattle,Cosmetics,5,40.66,203.3,Credit Card,27.936
+737,21-Jan-18,DS-13030,34,Female,Seattle,Shoes,1,600.17,600.17,Debit Card,84.98
+738,21-Jan-18,DS-13030,67,Female,Seattle,Food & Beverage,1,5.23,5.23,Cash,18.72
+739,8-Sep-15,GZ-14470,60,Male,San Francisco,Books,5,15.15,75.75,Credit Card,49.98
+740,4-Jan-15,PO-19195,31,Female,Naperville,Clothing,5,300.08,1500.4,Cash,11.784
+741,4-Jan-15,PO-19195,52,Female,Naperville,Toys,3,35.84,107.52,Cash,272.736
+742,4-Jan-15,PO-19195,25,Male,Naperville,Food & Beverage,5,5.23,26.15,Credit Card,3.54
+743,27-Aug-17,SS-20875,22,Female,Dallas,Clothing,4,300.08,1200.32,Cash,51.52
+744,27-Aug-17,SS-20875,34,Female,Dallas,Food & Beverage,3,5.23,15.69,Credit Card,3.528
+745,27-Aug-17,SS-20875,30,Male,Dallas,Clothing,4,300.08,1200.32,Cash,4.624
+746,27-Aug-17,SS-20875,25,Female,Dallas,Food & Beverage,2,5.23,10.46,Credit Card,55.168
+747,27-May-15,MH-17785,48,Female,San Diego,Clothing,3,300.08,900.24,Cash,567.12
+748,27-May-15,MH-17785,30,Male,San Diego,Clothing,1,300.08,300.08,Debit Card,359.32
+749,20-Mar-17,PB-19105,30,Female,Evanston,Clothing,3,300.08,900.24,Cash,11.992
+750,2-Oct-18,RF-19735,36,Female,Trenton,Clothing,5,300.08,1500.4,Cash,58.05
+751,2-Oct-18,RF-19735,52,Female,Trenton,Shoes,5,600.17,3000.85,Credit Card,157.74
+752,2-Oct-18,RF-19735,33,Male,Trenton,Food & Beverage,1,5.23,5.23,Cash,56.98
+753,2-Oct-18,RF-19735,69,Male,Trenton,Cosmetics,5,40.66,203.3,Cash,2.88
+754,7-Apr-17,YC-21895,46,Female,San Francisco,Clothing,2,300.08,600.16,Cash,1199.976
+755,7-Dec-16,MS-17830,65,Female,Los Angeles,Toys,4,35.84,143.36,Debit Card,79.92
+756,18-Sep-17,NB-18655,27,Male,Jacksonville,Food & Beverage,5,5.23,26.15,Cash,383.438
+757,29-Dec-15,DC-13285,42,Female,Cottage Grove,Food & Beverage,2,5.23,10.46,Cash,24.56
+758,29-Dec-15,DC-13285,56,Female,Cottage Grove,Technology,5,1050,5250,Credit Card,119.8
+759,23-Jul-18,CP-12340,68,Female,New York City,Cosmetics,5,40.66,203.3,Credit Card,13.128
+760,18-Sep-18,BF-11020,64,Male,Green Bay,Food & Beverage,3,5.23,15.69,Credit Card,22.72
+761,31-Aug-16,AR-10510,59,Male,Los Angeles,Food & Beverage,1,5.23,5.23,Debit Card,58.32
+762,3-Nov-18,JC-16105,68,Female,Atlanta,Technology,3,1050,3150,Credit Card,12.39
+763,8-Feb-16,LH-17020,25,Male,Columbus,Cosmetics,5,40.66,203.3,Cash,107.982
+764,13-Jan-15,CS-12250,40,Female,Bossier City,Toys,5,35.84,179.2,Credit Card,11.36
+765,13-Jan-15,CS-12250,18,Female,Bossier City,Toys,1,35.84,35.84,Debit Card,50.94
+766,13-Jan-15,CS-12250,56,Male,Bossier City,Clothing,4,300.08,1200.32,Cash,646.74
+767,13-Jan-15,CS-12250,36,Female,Bossier City,Shoes,1,600.17,600.17,Cash,5.64
+768,13-Jan-15,CS-12250,30,Female,Bossier City,Food & Beverage,1,5.23,5.23,Credit Card,572.58
+769,14-May-15,AJ-10795,52,Female,Saint Petersburg,Cosmetics,4,40.66,162.64,Debit Card,310.88
+770,19-May-17,LE-16810,24,Female,Arlington,Technology,4,1050,4200,Debit Card,641.96
+771,30-Jan-18,BV-11245,30,Female,Des Moines,Clothing,2,300.08,600.16,Cash,18.28
+772,30-Jan-18,BV-11245,45,Female,Des Moines,Cosmetics,5,40.66,203.3,Cash,207
+773,30-Jan-18,BV-11245,29,Male,Des Moines,Toys,4,35.84,143.36,Cash,32.35
+774,30-Jan-18,BV-11245,24,Male,Des Moines,Books,1,15.15,15.15,Debit Card,7.71
+775,30-Jan-18,BV-11245,46,Female,Des Moines,Clothing,2,300.08,600.16,Cash,40.3
+776,30-Jan-18,BV-11245,65,Female,Des Moines,Shoes,4,600.17,2400.68,Cash,34.58
+777,29-Jun-15,DL-12865,26,Female,Cincinnati,Toys,1,35.84,35.84,Credit Card,32.76
+778,21-Aug-16,NZ-18565,58,Female,San Francisco,Toys,3,35.84,107.52,Cash,544.008
+779,21-Aug-16,NZ-18565,45,Female,San Francisco,Clothing,4,300.08,1200.32,Cash,59.94
+780,21-Aug-16,NZ-18565,43,Male,San Francisco,Cosmetics,3,40.66,121.98,Debit Card,23.92
+781,21-Aug-16,NZ-18565,25,Female,San Francisco,Souvenir,4,11.73,46.92,Debit Card,4.28
+782,3-Oct-16,BM-11785,53,Female,Columbus,Clothing,3,300.08,900.24,Credit Card,32.07
+783,3-Oct-16,BM-11785,63,Female,Columbus,Clothing,1,300.08,300.08,Debit Card,24
+784,3-Oct-16,BM-11785,37,Female,Columbus,Cosmetics,1,40.66,40.66,Credit Card,35.49
+785,3-Oct-16,BM-11785,68,Female,Columbus,Cosmetics,4,40.66,162.64,Debit Card,47.984
+786,23-May-16,EA-14035,67,Female,Columbia,Books,5,15.15,75.75,Cash,186.69
+787,17-Mar-18,CL-12565,29,Female,Lancaster,Clothing,5,300.08,1500.4,Cash,17.456
+788,12-Dec-16,LT-17110,55,Female,Lancaster,Clothing,4,300.08,1200.32,Cash,348.928
+789,26-Jun-16,SA-20830,30,Male,Richmond,Clothing,2,300.08,600.16,Debit Card,143.96
+790,26-Jun-16,SA-20830,57,Female,Richmond,Toys,5,35.84,179.2,Cash,15.42
+791,26-Jun-16,SA-20830,33,Male,Richmond,Shoes,1,600.17,600.17,Debit Card,43.04
+792,26-Jun-16,SA-20830,54,Female,Richmond,Clothing,3,300.08,900.24,Cash,332.94
+793,20-May-17,JK-15730,66,Female,Asheville,Shoes,4,600.17,2400.68,Credit Card,1363.96
+794,20-Sep-15,ES-14020,56,Male,San Francisco,Clothing,5,300.08,1500.4,Debit Card,9.96
+795,20-Sep-15,ES-14020,30,Male,San Francisco,Technology,4,1050,4200,Credit Card,21.72
+796,21-Sep-18,RH-19495,19,Female,Rochester,Clothing,5,300.08,1500.4,Cash,20.16
+797,24-Dec-16,DB-13120,22,Female,Rochester,Technology,1,1050,1050,Cash,132.79
+798,24-Dec-16,DB-13120,29,Male,Rochester,Food & Beverage,5,5.23,26.15,Debit Card,12.96
+799,24-Dec-16,DB-13120,44,Male,Rochester,Clothing,2,300.08,600.16,Cash,21.56
+800,27-Nov-16,CD-11920,38,Female,Lake Elsinore,Toys,1,35.84,35.84,Credit Card,283.92
+801,20-Feb-18,HW-14935,32,Female,San Diego,Clothing,3,300.08,900.24,Cash,22.23
+802,20-Feb-18,HW-14935,58,Female,San Diego,Toys,4,35.84,143.36,Credit Card,215.968
+803,18-Aug-17,HW-14935,55,Female,New York City,Cosmetics,4,40.66,162.64,Cash,355.32
+804,12-Mar-17,MC-18130,64,Female,Monroe,Food & Beverage,2,5.23,10.46,Credit Card,12.96
+805,22-Apr-18,GM-14440,45,Female,San Francisco,Clothing,3,300.08,900.24,Credit Card,18.28
+806,1-Nov-15,RA-19915,65,Female,Denver,Clothing,1,300.08,300.08,Credit Card,43.176
+807,1-Nov-15,RA-19915,54,Female,Denver,Clothing,4,300.08,1200.32,Debit Card,1983.968
+808,3-Feb-16,AA-10375,58,Male,Omaha,Clothing,5,300.08,1500.4,Cash,28.4
+809,3-Feb-16,AA-10375,40,Female,Omaha,Cosmetics,2,40.66,81.32,Debit Card,149.97
+810,13-Oct-15,ZC-21910,24,Male,Edmonds,Clothing,5,300.08,1500.4,Debit Card,11.52
+811,13-Oct-15,ZC-21910,60,Female,Edmonds,Clothing,5,300.08,1500.4,Debit Card,1298.55
+812,13-Oct-15,ZC-21910,60,Female,Edmonds,Food & Beverage,3,5.23,15.69,Cash,213.92
+813,13-Oct-15,ZC-21910,66,Male,Edmonds,Food & Beverage,2,5.23,10.46,Credit Card,25.78
+814,14-May-18,PJ-19015,59,Male,Santa Ana,Food & Beverage,1,5.23,5.23,Cash,18.28
+815,14-May-18,PJ-19015,69,Male,Santa Ana,Souvenir,5,11.73,58.65,Credit Card,1399.93
+816,20-Mar-16,BW-11110,47,Female,Milwaukee,Cosmetics,4,40.66,162.64,Credit Card,51.84
+817,15-Sep-17,DB-13210,39,Male,Philadelphia,Technology,3,1050,3150,Cash,5.344
+818,28-Jun-15,CA-12775,54,Female,Philadelphia,Clothing,1,300.08,300.08,Cash,41.472
+819,28-Jun-15,CA-12775,67,Female,Philadelphia,Technology,4,1050,4200,Cash,3.168
+820,28-Jun-15,CA-12775,30,Male,Philadelphia,Clothing,2,300.08,600.16,Cash,1228.465
+821,28-Jun-15,CA-12775,27,Female,Philadelphia,Toys,3,35.84,107.52,Credit Card,31.086
+822,28-Jun-15,CA-12775,52,Female,Philadelphia,Cosmetics,4,40.66,162.64,Cash,335.52
+823,20-Jun-18,TR-21325,57,Female,Belleville,Food & Beverage,3,5.23,15.69,Cash,239.97
+824,20-Jun-18,TR-21325,52,Male,Belleville,Clothing,1,300.08,300.08,Credit Card,9.82
+825,9-May-15,PG-18820,20,Male,San Francisco,Cosmetics,4,40.66,162.64,Cash,67.8
+826,9-May-15,PG-18820,52,Female,San Francisco,Souvenir,5,11.73,58.65,Credit Card,167.97
+827,21-Aug-18,GT-14710,67,Female,Lakeville,Food & Beverage,3,5.23,15.69,Debit Card,35
+828,21-Aug-18,GT-14710,20,Female,Lakeville,Cosmetics,4,40.66,162.64,Cash,37.24
+829,21-Aug-18,GT-14710,64,Female,Lakeville,Clothing,3,300.08,900.24,Cash,15.28
+830,16-Jun-18,JE-15745,20,Female,Florence,Cosmetics,2,40.66,81.32,Debit Card,301.96
+831,16-Jun-18,JE-15745,60,Female,Florence,Toys,3,35.84,107.52,Cash,180.66
+832,16-Jun-18,JE-15745,36,Female,Florence,Clothing,1,300.08,300.08,Credit Card,191.98
+833,16-Jun-18,JE-15745,29,Female,Florence,Shoes,4,600.17,2400.68,Credit Card,65.99
+834,23-Jul-17,JB-15400,45,Female,Tampa,Souvenir,1,11.73,11.73,Cash,35.216
+835,23-Jul-17,JB-15400,18,Female,Tampa,Food & Beverage,1,5.23,5.23,Cash,23.696
+836,23-Jul-17,JB-15400,54,Female,Tampa,Books,1,15.15,15.15,Debit Card,265.475
+837,8-Sep-15,LH-17020,45,Male,Tyler,Clothing,3,300.08,900.24,Cash,51.184
+838,4-Nov-18,JL-15175,59,Female,Columbia,Food & Beverage,1,5.23,5.23,Cash,9.664
+839,7-Mar-17,EB-13705,49,Female,Fort Worth,Clothing,2,300.08,600.16,Cash,21.072
+840,20-Nov-16,BM-11650,61,Male,New York City,Souvenir,3,11.73,35.19,Cash,60.45
+841,20-Nov-16,BM-11650,28,Female,New York City,Food & Beverage,3,5.23,15.69,Credit Card,11.52
+842,20-Nov-16,BM-11650,36,Female,New York City,Books,3,15.15,45.45,Cash,186.048
+843,7-Nov-17,EM-14095,69,Female,Los Angeles,Clothing,2,300.08,600.16,Cash,37.44
+844,7-Nov-17,EM-14095,27,Female,Los Angeles,Food & Beverage,3,5.23,15.69,Cash,26.976
+845,7-Nov-17,EM-14095,30,Female,Los Angeles,Clothing,3,300.08,900.24,Credit Card,11.36
+846,7-Nov-17,EM-14095,67,Male,Los Angeles,Cosmetics,4,40.66,162.64,Debit Card,14.62
+847,13-Oct-16,AF-10885,66,Male,Louisville,Shoes,4,600.17,2400.68,Credit Card,83.72
+848,13-Oct-16,AF-10885,52,Female,Louisville,Food & Beverage,4,5.23,20.92,Cash,287.94
+849,1-Jan-18,GA-14725,69,Male,Lorain,Food & Beverage,3,5.23,15.69,Credit Card,48.896
+850,7-Feb-15,CK-12760,63,Female,Linden,Clothing,1,300.08,300.08,Debit Card,115.36
+851,20-Jun-17,DP-13105,20,Female,Salinas,Clothing,5,300.08,1500.4,Credit Card,5.16
+852,20-Jun-17,DP-13105,23,Female,Salinas,Toys,4,35.84,143.36,Cash,38.88
+853,28-May-17,VD-21670,47,Male,Jackson,Toys,3,35.84,107.52,Cash,185.88
+854,19-Feb-17,GT-14710,43,Male,New York City,Clothing,5,300.08,1500.4,Cash,44.46
+855,19-Feb-17,GT-14710,55,Male,New York City,Shoes,1,600.17,600.17,Cash,242.94
+856,3-Aug-15,BK-11260,25,Male,New York City,Toys,2,35.84,71.68,Credit Card,39.96
+857,3-Aug-15,BK-11260,62,Female,New York City,Shoes,4,600.17,2400.68,Cash,102.3
+858,3-Aug-15,BK-11260,23,Female,New York City,Cosmetics,1,40.66,40.66,Cash,21.36
+859,10-Apr-18,SJ-20125,48,Female,New Brunswick,Technology,5,1050,5250,Credit Card,7.61
+860,10-Apr-18,SJ-20125,64,Male,New Brunswick,Souvenir,1,11.73,11.73,Cash,7.16
+861,9-Jun-15,CM-12445,50,Female,San Francisco,Clothing,2,300.08,600.16,Credit Card,7.36
+862,9-Jun-15,CM-12445,42,Female,San Francisco,Cosmetics,2,40.66,81.32,Cash,23.1
+863,5-Jan-17,AJ-10795,43,Male,Jacksonville,Clothing,3,300.08,900.24,Cash,191.472
+864,5-Jan-17,AJ-10795,25,Female,Jacksonville,Clothing,3,300.08,900.24,Credit Card,5.248
+865,5-Jan-17,AJ-10795,66,Male,Jacksonville,Clothing,3,300.08,900.24,Debit Card,59.184
+866,10-Jan-15,AJ-10780,41,Female,Springfield,Food & Beverage,1,5.23,5.23,Cash,2.89
+867,10-Jan-15,AJ-10780,37,Female,Springfield,Cosmetics,3,40.66,121.98,Cash,51.94
+868,29-Sep-17,LS-16945,43,Female,Philadelphia,Clothing,3,300.08,900.24,Credit Card,15.936
+869,6-Apr-15,GP-14740,19,Female,Lancaster,Clothing,2,300.08,600.16,Credit Card,44.91
+870,3-Sep-17,PK-18910,64,Female,Philadelphia,Technology,4,1050,4200,Credit Card,1141.47
+871,3-Sep-17,PK-18910,39,Female,Philadelphia,Shoes,5,600.17,3000.85,Debit Card,280.782
+872,19-Oct-16,TB-21520,21,Female,Concord,Cosmetics,2,40.66,81.32,Credit Card,34.44
+873,10-Dec-15,SM-20005,51,Male,New York City,Food & Beverage,3,5.23,15.69,Cash,11.36
+874,10-Dec-15,SM-20005,67,Male,New York City,Books,5,15.15,75.75,Cash,106.344
+875,25-Aug-18,GA-14725,54,Male,Charlotte,Shoes,3,600.17,1800.51,Debit Card,192.16
+876,17-Jan-17,CC-12430,21,Female,Concord,Food & Beverage,2,5.23,10.46,Cash,322.59
+877,17-Jan-17,CC-12430,29,Male,Concord,Technology,1,1050,1050,Debit Card,29.99
+878,17-Jan-17,CC-12430,32,Female,Concord,Shoes,3,600.17,1800.51,Debit Card,371.97
+879,17-Sep-15,AG-10765,55,Female,Philadelphia,Clothing,4,300.08,1200.32,Credit Card,5.892
+880,30-Nov-18,HP-14815,24,Male,New York City,Souvenir,4,11.73,46.92,Cash,68.472
+881,30-Nov-18,HP-14815,37,Male,New York City,Clothing,3,300.08,900.24,Credit Card,1242.9
+882,9-Oct-16,DK-13090,53,Female,Springfield,Shoes,5,600.17,3000.85,Credit Card,30.84
+883,23-Dec-18,GZ-14470,43,Female,San Francisco,Food & Beverage,5,5.23,26.15,Debit Card,13.48
+884,22-Oct-17,PM-19135,39,Female,Detroit,Toys,3,35.84,107.52,Credit Card,31.4
+885,29-Apr-15,LL-16840,37,Female,Rochester,Shoes,3,600.17,1800.51,Debit Card,17.46
+886,25-Apr-16,JS-15595,58,Female,Los Angeles,Food & Beverage,1,5.23,5.23,Cash,13.944
+887,26-Jun-18,OT-18730,28,Male,San Diego,Toys,1,35.84,35.84,Credit Card,83.76
+888,14-Oct-18,EL-13735,45,Male,Columbia,Technology,1,1050,1050,Credit Card,37.66
+889,9-Dec-15,CK-12760,21,Female,San Francisco,Clothing,4,300.08,1200.32,Cash,34.68
+890,20-Jun-18,JE-15475,39,Female,New Rochelle,Cosmetics,5,40.66,203.3,Cash,149.95
+891,20-Jun-18,JE-15475,23,Male,New Rochelle,Clothing,5,300.08,1500.4,Debit Card,51.312
+892,26-Jun-18,TH-21550,41,Male,Detroit,Clothing,1,300.08,300.08,Credit Card,4.54
+893,26-Jun-18,TH-21550,26,Female,Detroit,Food & Beverage,2,5.23,10.46,Credit Card,15.92
+894,26-Jun-18,TH-21550,51,Male,Detroit,Toys,4,35.84,143.36,Debit Card,543.92
+895,10-Nov-17,PC-18745,49,Male,San Francisco,Cosmetics,2,40.66,81.32,Cash,155.82
+896,10-Nov-17,PC-18745,45,Male,San Francisco,Clothing,4,300.08,1200.32,Cash,70.008
+897,3-Oct-17,HL-15040,33,Male,Houston,Cosmetics,5,40.66,203.3,Cash,15.648
+898,9-Sep-15,MS-17365,53,Female,Detroit,Shoes,4,600.17,2400.68,Cash,103.6
+899,29-Oct-18,GB-14530,32,Female,Auburn,Cosmetics,1,40.66,40.66,Credit Card,46.96
+900,10-Apr-17,JR-16210,40,Male,Springfield,Clothing,1,300.08,300.08,Cash,8.904
+901,11-Nov-18,TD-20995,60,Male,Garland,Clothing,5,300.08,1500.4,Debit Card,10.44
+902,11-Nov-18,TD-20995,37,Female,Garland,Clothing,1,300.08,300.08,Cash,18.336
+903,15-Sep-18,DB-13060,56,Female,Chicago,Technology,5,1050,5250,Debit Card,323.976
+904,8-Apr-17,LC-17140,55,Female,Los Angeles,Clothing,2,300.08,600.16,Credit Card,20.04
+905,8-Apr-17,LC-17140,68,Male,Los Angeles,Books,1,15.15,15.15,Debit Card,64.96
+906,8-Apr-17,LC-17140,54,Female,Los Angeles,Cosmetics,2,40.66,81.32,Credit Card,12.96
+907,30-Dec-18,PO-18865,56,Female,New York City,Food & Beverage,3,5.23,15.69,Credit Card,323.136
+908,30-Dec-18,PO-18865,27,Male,New York City,Toys,2,35.84,71.68,Cash,90.93
+909,30-Dec-18,PO-18865,41,Female,New York City,Toys,1,35.84,35.84,Debit Card,52.776
+910,2-Sep-18,BE-11335,59,Male,Jackson,Shoes,4,600.17,2400.68,Credit Card,1199.8
+911,2-Sep-18,BE-11335,62,Male,Jackson,Clothing,1,300.08,300.08,Credit Card,1928.78
+912,2-Sep-18,BE-11335,32,Male,Jackson,Cosmetics,2,40.66,81.32,Credit Card,352.38
+913,31-May-16,SC-20050,47,Male,Norwich,Cosmetics,2,40.66,81.32,Debit Card,22.2
+914,27-Nov-18,BM-11650,42,Female,Milwaukee,Technology,5,1050,5250,Cash,46.94
+915,27-Nov-18,BM-11650,33,Male,Milwaukee,Food & Beverage,3,5.23,15.69,Cash,143.73
+916,15-Jun-15,KL-16555,66,Male,San Antonio,Technology,5,1050,5250,Credit Card,99.918
+917,15-Jun-15,KL-16555,55,Female,San Antonio,Cosmetics,5,40.66,203.3,Cash,797.944
+918,15-Jun-15,KL-16555,24,Female,San Antonio,Food & Beverage,4,5.23,20.92,Credit Card,8.568
+919,5-Mar-17,RW-19630,64,Female,Dallas,Toys,5,35.84,179.2,Debit Card,149.352
+920,5-Mar-17,RW-19630,27,Female,Dallas,Shoes,5,600.17,3000.85,Debit Card,12.992
+921,5-Dec-15,RC-19825,62,Female,Alexandria,Cosmetics,2,40.66,81.32,Credit Card,24.56
+922,11-Apr-16,SE-20110,68,Female,New York City,Cosmetics,2,40.66,81.32,Debit Card,85.14
+923,11-Apr-16,SE-20110,62,Female,New York City,Cosmetics,3,40.66,121.98,Credit Card,21.99
+924,11-Apr-16,SE-20110,36,Male,New York City,Souvenir,1,11.73,11.73,Cash,406.6
+925,15-Sep-17,AH-10075,64,Male,New York City,Clothing,3,300.08,900.24,Credit Card,841.568
+926,13-Sep-15,JM-15535,22,Male,Philadelphia,Technology,4,1050,4200,Cash,15.552
+927,13-Sep-15,JM-15535,26,Female,Philadelphia,Food & Beverage,5,5.23,26.15,Debit Card,252
+928,5-Oct-16,JJ-15760,37,Female,Springfield,Clothing,5,300.08,1500.4,Cash,46.2
+929,5-Oct-16,JJ-15760,47,Female,Springfield,Cosmetics,1,40.66,40.66,Credit Card,28.84
+930,14-Apr-18,AB-10165,40,Female,Toledo,Toys,1,35.84,35.84,Credit Card,14.592
+931,14-Apr-18,AB-10165,58,Female,Toledo,Food & Beverage,1,5.23,5.23,Debit Card,89.856
+932,14-Apr-18,AB-10165,32,Male,Toledo,Books,2,15.15,30.3,Cash,13.872
+933,2-Sep-18,RK-19300,36,Female,Philadelphia,Clothing,1,300.08,300.08,Credit Card,12.192
+934,20-Jun-17,CG-12040,56,Female,Philadelphia,Toys,4,35.84,143.36,Debit Card,45.056
+935,20-Jun-17,CG-12040,41,Female,Philadelphia,Clothing,4,300.08,1200.32,Credit Card,29.718
+936,20-Jun-17,CG-12040,34,Female,Philadelphia,Food & Beverage,5,5.23,26.15,Debit Card,15.552
+937,20-Jun-17,CG-12040,37,Female,Philadelphia,Clothing,5,300.08,1500.4,Credit Card,447.696
+938,5-Nov-18,RA-19885,55,Female,Farmington,Cosmetics,1,40.66,40.66,Credit Card,159.99
+939,13-Dec-16,RP-19270,25,Female,Riverside,Shoes,2,600.17,1200.34,Cash,12.96
+940,13-Dec-16,RP-19270,50,Female,Riverside,Clothing,4,300.08,1200.32,Cash,134.48
+941,19-Jun-17,KC-16255,66,Male,San Francisco,Shoes,3,600.17,1800.51,Cash,17.12
+942,13-Dec-17,RW-19630,52,Male,Torrance,Clothing,1,300.08,300.08,Cash,6.096
+943,13-Dec-17,RW-19630,24,Female,Torrance,Cosmetics,1,40.66,40.66,Debit Card,1114.272
+944,29-May-16,JL-15850,52,Male,Seattle,Food & Beverage,3,5.23,15.69,Debit Card,32.4
+945,29-May-16,JL-15850,43,Male,Seattle,Clothing,3,300.08,900.24,Cash,540.57
+946,29-May-16,JL-15850,41,Male,Seattle,Cosmetics,1,40.66,40.66,Cash,167.76
+947,26-Jul-16,CA-12775,28,Female,Mesa,Clothing,5,300.08,1500.4,Credit Card,393.165
+948,28-Nov-18,RB-19795,31,Male,Philadelphia,Food & Beverage,1,5.23,5.23,Cash,516.488
+949,28-Nov-18,RB-19795,41,Female,Philadelphia,Shoes,3,600.17,1800.51,Credit Card,1007.232
+950,28-Nov-18,RB-19795,21,Male,Philadelphia,Cosmetics,3,40.66,121.98,Cash,2065.32
+951,28-Nov-18,RB-19795,45,Female,Philadelphia,Cosmetics,3,40.66,121.98,Credit Card,15.552
+952,28-Nov-18,RB-19795,41,Female,Philadelphia,Books,3,15.15,45.45,Cash,25.344
+953,3-Apr-18,KH-16360,42,Male,Philadelphia,Clothing,3,300.08,900.24,Cash,25.472
+954,28-Dec-18,GH-14665,50,Male,Round Rock,Cosmetics,1,40.66,40.66,Credit Card,27.168
+955,28-Dec-18,GH-14665,42,Female,Round Rock,Clothing,3,300.08,900.24,Cash,78.8528
+956,30-Nov-18,SW-20275,25,Female,Jackson,Clothing,2,300.08,600.16,Credit Card,173.8
+957,15-May-18,JA-15970,39,Female,Phoenix,Shoes,5,600.17,3000.85,Debit Card,29.592
+958,15-May-18,JA-15970,23,Male,Phoenix,Toys,5,35.84,179.2,Cash,4.752
+959,15-May-18,JA-15970,67,Male,Phoenix,Books,2,15.15,30.3,Debit Card,15.552
+960,22-Sep-16,DL-12925,42,Female,Oceanside,Food & Beverage,5,5.23,26.15,Credit Card,204.6
+961,14-Nov-18,LW-16990,63,Female,San Francisco,Clothing,2,300.08,600.16,Credit Card,321.568
+962,27-Nov-16,TB-21190,53,Male,Fayetteville,Souvenir,4,11.73,46.92,Credit Card,6.24
+963,1-Sep-17,CV-12805,32,Male,San Francisco,Food & Beverage,5,5.23,26.15,Debit Card,21.88
+964,22-Sep-15,MS-17365,43,Male,Boca Raton,Shoes,2,600.17,1200.34,Debit Card,4.608
+965,9-Apr-18,BS-11800,22,Female,New York City,Clothing,2,300.08,600.16,Credit Card,9.82
+966,9-Apr-18,BS-11800,30,Male,New York City,Food & Beverage,4,5.23,20.92,Debit Card,35.97
+967,9-Apr-18,BS-11800,20,Female,New York City,Clothing,3,300.08,900.24,Cash,12.96
+968,9-Apr-18,BS-11800,40,Female,New York City,Cosmetics,2,40.66,81.32,Credit Card,191.6
+969,9-Apr-18,BS-11800,61,Male,New York City,Clothing,4,300.08,1200.32,Credit Card,8.64
+970,9-Apr-18,BS-11800,44,Male,New York City,Clothing,5,300.08,1500.4,Cash,501.81
+971,16-Jan-15,DL-13315,55,Female,Philadelphia,Cosmetics,4,40.66,162.64,Cash,127.104
+972,16-Jan-15,DL-13315,54,Female,Philadelphia,Food & Beverage,2,5.23,10.46,Credit Card,124.2
+973,16-Jan-15,DL-13315,23,Male,Philadelphia,Toys,3,35.84,107.52,Cash,18.588
+974,16-Jan-15,DL-13315,61,Female,Philadelphia,Clothing,1,300.08,300.08,Cash,30.072
+975,5-Oct-18,PO-19195,37,Male,New York City,Clothing,1,300.08,300.08,Cash,160.93
+976,5-Oct-18,PO-19195,43,Female,New York City,Food & Beverage,2,5.23,10.46,Cash,75.792
+977,9-Jul-18,TD-20995,33,Male,Portland,Shoes,4,600.17,2400.68,Cash,1.08
+978,7-Jan-18,BW-11110,18,Male,Detroit,Clothing,5,300.08,1500.4,Cash,3059.982
+979,30-May-17,RW-19690,30,Female,Wilmington,Toys,1,35.84,35.84,Debit Card,3.282
+980,9-Dec-16,KB-16600,68,Female,Columbus,Toys,5,35.84,179.2,Debit Card,34.02
+981,3-Oct-17,EB-13870,34,Male,New York City,Clothing,1,300.08,300.08,Debit Card,599.292
+982,11-Nov-15,TZ-21580,34,Female,Louisville,Books,1,15.15,15.15,Credit Card,3.392
+983,11-Nov-15,TZ-21580,59,Female,Louisville,Food & Beverage,2,5.23,10.46,Debit Card,559.984
+984,11-Nov-15,TZ-21580,22,Female,Louisville,Clothing,5,300.08,1500.4,Debit Card,603.92
+985,29-Sep-18,AS-10630,30,Female,Pasadena,Cosmetics,5,40.66,203.3,Debit Card,7.968
+986,29-Sep-18,AS-10630,50,Female,Pasadena,Toys,3,35.84,107.52,Debit Card,27.968
+987,29-Sep-18,AS-10630,68,Female,Pasadena,Food & Beverage,3,5.23,15.69,Cash,336.51
+988,10-Mar-16,TS-21340,49,Female,Houston,Clothing,1,300.08,300.08,Cash,1.112
+989,21-May-18,JG-15805,38,Male,Auburn,Toys,5,35.84,179.2,Credit Card,520.05
+990,21-May-18,JG-15805,51,Male,Auburn,Cosmetics,3,40.66,121.98,Debit Card,17.97
+991,29-Mar-16,SL-20155,44,Male,Jacksonville,Cosmetics,3,40.66,121.98,Credit Card,1166.92
+992,9-Sep-17,TS-21610,64,Male,New York City,Clothing,2,300.08,600.16,Cash,14.624
+993,26-Aug-17,RF-19735,31,Female,San Jose,Clothing,4,300.08,1200.32,Credit Card,10.23
+994,26-Aug-17,RF-19735,34,Female,San Jose,Technology,1,1050,1050,Debit Card,154.9
+995,21-May-15,MW-18235,40,Male,Virginia Beach,Clothing,3,300.08,900.24,Debit Card,2715.93
+996,21-May-15,MW-18235,58,Female,Virginia Beach,Shoes,1,600.17,600.17,Credit Card,617.97
+997,28-Oct-16,RD-19585,56,Male,Henderson,Clothing,4,300.08,1200.32,Cash,10.67
+998,28-Oct-16,RD-19585,57,Female,Henderson,Food & Beverage,5,5.23,26.15,Cash,36.63
+999,28-Oct-16,RD-19585,38,Female,Henderson,Shoes,1,600.17,600.17,Credit Card,24.1
+1000,28-Oct-16,RD-19585,55,Female,Henderson,Souvenir,3,11.73,35.19,Debit Card,33.11
